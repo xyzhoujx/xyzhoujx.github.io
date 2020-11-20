@@ -106,4 +106,61 @@ body{
     }
  }
 
+ @media screen and (max-width:400px) {
 
+    .page{
+        margin: 0;
+        font-size: 0.8rem;
+    }
+
+    .lefts ul li{
+        list-style: none;
+        line-height: 4rem;
+        font-size: 10px;
+        display: inline;
+        margin-right: 5px;
+      
+        
+    }
+.lefts ul{
+    padding-inline-start: 15px;
+    margin-block-end: 1em;
+}
+    .lefts{
+        height: 150px;
+    }
+
+    .rights h1{
+        font-size: 1.5rem;
+    }
+
+    .rights ul{
+        padding-inline-start: 15px;
+    }
+    .page{
+        margin-left:8px;
+    }
+
+}
+
+@media screen and (min-width:800px) and (max-width:1200px) {
+
+    .page{
+        margin: 0 50px;
+    }
+}
+
+@media screen and (min-width:1200px) and (max-width:1600px) {
+
+    .page{
+        margin: 0 100px;
+    }
+}
+
+
+@media screen and (min-width:1600px) and (max-width:2000px) {
+
+    .page{
+        margin: 0 200px;
+    }
+}
