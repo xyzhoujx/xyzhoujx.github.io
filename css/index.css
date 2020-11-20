@@ -1,0 +1,109 @@
+
+body{
+    font-family: Source Sans Pro,Helvetica Neue,Helvetica,sans-serif;
+    line-height: 1.5;
+    color: #555;
+    background-color:#efefef;
+    cursor: url(../images/cursor.ico),auto;
+}
+ body::-webkit-scrollbar {
+    display: none;
+} 
+
+.pages a{
+    text-decoration: none;
+    color: #555; 
+}
+.page{
+    padding: 40px;
+    border-radius: 15px;
+    background:  white;
+    margin: 0 200px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.page:hover{
+    box-shadow: 0 4px 8px 0 rgba(107, 206, 245, 0.4), 0 6px 20px 0 rgba(107, 206, 245, 0.4);
+}
+
+.page hr{
+    border: 2px solid #0093E9;
+    border-top: none;
+}
+
+.pages h1{
+    color: black;
+    font-weight: 600;
+}
+
+.pages{
+    width: 100%;
+}
+.pages p a{
+    color:#52adc8 ;
+}
+.pages p{
+    font-size: 16px;
+    color:#333;
+}
+
+.container-fluid{
+    padding: 0;
+}
+
+.lefts{
+    height: 100vh;
+    background-color: #0093E9;
+}
+
+.rights{
+    height: 100vh;
+    overflow-y: scroll;
+}
+
+
+/* 滚动槽 */
+.rights::-webkit-scrollbar {
+    width: 10px;
+    height: 8px;
+    margin-right: 120px;
+    
+}
+.rights::-webkit-scrollbar-track {
+    border-radius: 3px;
+    background: rgba(0,0,0,0.06);
+    -webkit-box-shadow: inset 0 0 5px rgba(0,0,0,0.08);
+}
+/* 滚动条滑块 */
+.rights::-webkit-scrollbar-thumb {
+    border-radius: 3px;
+    background: rgba(0,0,0,0.12);
+    -webkit-box-shadow: inset 0 0 10px rgba(0,0,0,0.2);
+}
+
+.lefts ul{
+    margin-top: 50px;
+}
+
+.lefts ul li{
+    list-style: none;
+    line-height: 4rem;
+    font-size: 18px;
+}
+
+.lefts li a{
+    color: white;
+    text-decoration: none;
+}
+.page ul li span{
+
+    font-weight: 600;
+}
+
+@media (min-width: 2000px) {
+    .page{
+        margin: 0 400px;
+    }
+ }
+
+
