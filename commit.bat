@@ -9,6 +9,6 @@ git add ./
 :: local commit
 git commit -m "%commit_msg%"
 :: push to remote repository
-git push origin master
+git push main master
 :: make a pause 
 pause
