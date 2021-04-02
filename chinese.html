@@ -1,0 +1,201 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+	<meta charset="UTF-8">
+	<meta name="Description" content="Information architecture, Web Design, Web Standards." />
+	<meta name="Keywords" content="your, keywords" />
+	<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+	<meta name="Distribution" content="Global" />
+	<meta name="Robots" content="index,follow" />
+	<link rel="stylesheet" href="css/style.css" type="text/css" />
+
+
+	<title>XinYu Zhou (周新宇) </title>
+
+</head>
+
+<body>
+	<!-- wrap starts here -->
+	<div id="wrap" style="z-index: 1000;position: relative;">
+
+		<!--header -->
+		<div id="header">
+
+			<h1 id="logo-text"><a href="index.html" style="font-size: 28px;">
+					Dr. XinYu Zhou --- 周新宇
+				</a>
+			</h1>
+
+		</div>
+
+		<!-- menu -->
+		<div id="menu">
+			<ul>
+				<li><a href="index.html"><span>Home</span></a></li>
+				<li><a href="pubs.html"><span>Publications</span></a></li>
+				<li id="current"><a href="chinese.html"><span>Chinese Homepage</span></a></li>
+			</ul>
+		</div>
+		<div class="content">
+			<!-- content-wrap starts here -->
+			<div id="content-wrap">
+
+				<div id="main" class="chinese">
+
+					<h2 style="font-size: 18px;">个人概况</h2>
+					<ul style="margin-left: 5px;">
+						<div class="Introduction">
+							<li>姓名： 周新宇</li>
+							<li>地址：江西师范大学计算机信息工程学院，江西 南昌 330022 </li>
+							<!-- <li>电话： </li> -->
+							<li>邮件： xyzhou@jxnu.edu.cn or xyzhou@whu.edu.cn</li>
+
+						</div>
+					</ul>
+					<br>
+
+					<h2 style="font-size: 18px;">教育背景</h2>
+					<ul style="margin-left: 5px;">
+						<div class="educational">
+							<li>江西理工大学 硕士学位</li>
+							<li>武汉大学 博士学位</li>
+
+						</div>
+					</ul>
+					<br>
+
+					<!-- <h2 style="font-size: 18px;">工作经历</h2>
+				<ul style="margin-left: 5px;">
+                    <div class="work">
+                        <li>江西理工大学 硕士学位</li>
+                        <li>武汉大学 博士学位</li>
+                        
+                    </div>
+                </ul>
+				<br> -->
+
+					<h2 style="font-size: 18px;">研究兴趣</h2>
+					<ul style="margin-left: 5px;">
+						<div class="publish">
+							<li>进化计算及其应用</li>
+							<li>群体智能</li>
+							<li>并行计算</li>
+
+						</div>
+					</ul>
+					<br>
+
+					<!-- <h2 style="font-size: 18px;">学术专著</h2>
+				<ul style="margin-left: 5px;">
+                    <div class="interest">
+                        <li>进化计算</li>
+                        
+                        
+                    </div>
+                </ul> -->
+
+					<h2 style="font-size: 18px;">科研项目</h2>
+					<ul style="margin-left: 5px;">
+						<div class="publish">
+							<li>国家自然科学基金青年科学基金项目，2017年1月-2019年12月，20万元</li>
+							<li>江西省自然科学基金面上项目，2019年1月-2021年12月，6万元</li>
+							<li>江西省自然科学基金青年科学基金项目，2015年1月-2017年12月，5万元（已完成，结题为优秀）</li>
+							<li>江西省教育厅科技计划项目，2016年1月-2017年12月，2万元（已完成）</li>
+							<li>国家重点实验室开放基金项目，2015年1月-2016年12月，3万元（已完成）</li>
+
+						</div>
+					</ul>
+					<br>
+
+
+					<h2 style="font-size: 18px;">期刊论文</h2>
+					<ol>
+
+						<div class="Journalpapers"></div>
+
+
+						<!--定义模板-->
+						<script type="text/html" id="templateJournalpapers">
+							<%for (var i =0; i<items.length;i++){%>
+								<li >
+							
+									<%=items[i].author%>. <a href=<%=items[i].url%> target="_blank"><strong><%=items[i].paper%></strong></a>. 		
+									
+								</li>
+								<br>
+							<%}%>
+
+						</script>
+
+						<br>
+
+					</ol>
+
+					<h2 style="font-size: 18px;">会议论文</h2>
+					<ol>
+						<div class="Conferencepapers"></div>
+						<!--定义模板-->
+						<script type="text/html" id="templateConferencepapers">
+							<%for (var i =0; i<items.length;i++){%>
+							<li >
+								
+								<%=items[i].author%>. <a href=<%=items[i].url%> target="_blank"><strong><%=items[i].paper%></strong></a>. 
+								
+							</li>
+							<br>
+							<%}%>
+
+						</script>
+
+						<br>
+
+					</ol>
+					<br><br>
+
+				</div>
+
+				<!-- content-wrap ends here -->
+			</div>
+
+		</div>
+
+
+		<!-- wrap ends here -->
+	</div>
+	<script src="js/jquery-3.5.1.min.js"></script>
+	<script src="js/template-web.js"></script>
+	<script type="text/javascript">
+		$(function () {
+
+			// 使用jQuery 发送ajax请求
+			$.ajax({
+				type: 'GET',
+				dataType: "json",
+				url: "userinfo.json",
+				success: function (data) {
+
+					// 转化为js对象 数组
+					var Journalpapers = data.Journalpapers;
+					var Conferencepapers = data.Conferencepapers;
+					// 包装为js对象
+					var objJournalpapers = {
+						items: Journalpapers
+					};
+					var objConferencepapers = {
+						items: Conferencepapers
+					}
+					// 调用模板引擎的方法，填充数据
+					var resultJournalpapers = template('templateJournalpapers', objJournalpapers);
+					var resultConferencepapers = template('templateConferencepapers', objConferencepapers);
+					$('.Journalpapers').append(resultJournalpapers);
+					$('.Conferencepapers').append(resultConferencepapers);
+				}
+			});
+
+		});
+	</script>
+</body>
+<script src="js/public.js"></script>
+</html>
