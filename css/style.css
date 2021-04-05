@@ -235,7 +235,7 @@ input.button {
 #header h1#logo-text a {
 	position: absolute;
 	margin: 0; padding: 0;
-	font: bolder 44px 'Trebuchet MS', Arial, Sans-serif;
+	font: bolder 44px Helvetica, Arial, Sans-serif;
 	letter-spacing: -2px;
 	color: #FFF;
 	text-transform: none;
