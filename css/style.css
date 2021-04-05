@@ -181,7 +181,7 @@ input.button {
 
 .content{
 	width: 820px;
-	height: 77vh;
+	height: 83vh;
 	overflow-x: hidden;
 	padding-right: 0px;
 	right: -20px;
@@ -212,14 +212,14 @@ input.button {
 	
 	clear: both;
 	width: 760px;
-	height: 77vh;
+	height: 83vh;
 	padding: 5px 30px 30px 30px; 
 	margin: 0px auto;
 }
 #header {
 	width: 820px;
 	position: relative;
-	height: 18vh;
+	height: 12vh;
 	background-color: #5856d6;
 	/* background: #CCC url(header.jpg) no-repeat center top; */
 	/* background-color: rgb(120, 248, 242); */
