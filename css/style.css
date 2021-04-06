@@ -82,6 +82,32 @@ h1, h2, h3, p {
 	padding: 10px;		
 	margin: 0;
 }
+
+p{
+	line-height: 24px;
+}
+
+
+#content-wrap li{
+	font-size: 18px;
+	line-height: 24px;
+}
+
+#content-wrap p{
+	font-size: 18px;
+	line-height: 24px;
+}
+
+#news li{
+
+	font-size: 18px;
+
+}
+
+#news li span{
+	line-height: 24px;
+}
+
 ul, ol {
 	margin: 5px 20px;
 	padding: 0 20px;
@@ -145,34 +171,13 @@ input.button {
 	border: none;
 }
 
-/* search form */
-.searchform {
-	background-color: transparent;
-	border: none;	
-	margin: 0; padding: 5px 0 15px 0;	
-	width: 190px;	
-}
-.searchform p { margin: 0; padding: 0; }
-.searchform input.textbox { 
-	width: 120px;
-	color: #777; 
-	height: 18px;
-	padding: 2px;	
-	border: 1px solid #E5E5E5;
-	vertical-align: top;
-}
-.searchform input.button { 
-	width: 60px;
-	height: 24px;
-	padding: 2px 5px;
-	vertical-align: top;
-}
+
 
 /********************************************
    LAYOUT
 ********************************************/ 
 #wrap {
-	width: 820px;
+	width: 1000px;
 	/* background: #CCC url(content.jpg) repeat-y center top; */
 	background-color: white;
 	margin: 0px auto;
@@ -180,7 +185,7 @@ input.button {
 }
 
 .content{
-	width: 820px;
+	width: 1000px;
 	height: 83vh;
 	overflow-x: hidden;
 	padding-right: 0px;
@@ -211,13 +216,13 @@ input.button {
 #content-wrap {
 	
 	clear: both;
-	width: 760px;
+	width: 960px;
 	height: 83vh;
 	padding: 5px 30px 30px 30px; 
 	margin: 0px auto;
 }
 #header {
-	width: 820px;
+	width: 1000px;
 	position: relative;
 	height: 12vh;
 	background-color: #5856d6;
@@ -261,7 +266,7 @@ input.button {
 	position: absolute;
 	top: 20px; right: 30px;	
 	color: #C6DDEE;
-	font-size: 10px;	
+	font-size: 12px;	
 }
 #header #header-links a {	
 	color: #FFF;
@@ -280,10 +285,10 @@ input.button {
 	background-color: #5856d6;
 	font: bold 12px/37px Verdana, Arial, Tahoma, Sans-serif;
 	height: 5vh;
-	width: 820px;	
+	width: 1000px;	
 }
 #menu span{
-	font-size: 16px;
+	font-size: 20px;
 }
 #menu ul {
 	float: right;
@@ -344,7 +349,7 @@ input.button {
 #news ul li:before{
 	content:"\2022";     
 	color:#148AE0;    
-	font-size:14px;   
+	font-size:16px;   
 	margin-right: 4px;     
 }
 .chinese h2 a{
@@ -363,7 +368,7 @@ input.button {
 .chinese ul li:before{
 	content:"\2022";     
 	color:#148AE0;    
-	font-size:14px;   
+	font-size:16px;   
 	padding-right: 8px; 
 	 
 }
@@ -393,90 +398,6 @@ input.button {
 	padding-left: 20px; margin: 0 10px 0 5px;
 }
 
-/* Sidebar */	
-#sidebar {
-	
-	float: right;
-	width: 28%;
-	height: 100%;
-	/* padding: 0;  */
-	
-	margin-right: -30px;
-	margin-top: -10px;
-	padding-bottom: 20px;
-	/* margin: 0;	 */
-	/* padding-right: 0; */
-	/* color: rgb(102, 201, 45);	
-	background-color: rgb(179, 214, 122); */
-}	
-#sidebar h3 {
-	margin-top: 10px;
-	padding: 5px 5px; 
-	font: bold 1.4em 'Trebuchet MS', Tahoma, Sans-serif;
-	color: #728D26;	
-}
-#sidebar ul.sidemenu {
-	list-style: none;
-	text-align: left;
-	margin: 7px 4px 8px 0; padding: 0;
-	text-decoration: none;		
-	background: url(dots.jpg) repeat-x left top;
-}
-#sidebar ul.sidemenu li {
-	list-style: none;
-	background: url(dots.jpg) repeat-x left bottom;
-	padding: 4px 0 4px 5px;
-	margin: 0 2px;	
-	color: rgb(247, 23, 228);	
-}
-* html body #sidebar ul.sidemenu li {
-	height: 1%;
-}
-#sidebar ul.sidemenu li a {
-	text-decoration: none;	
-	background-image: none;	
-	color: #666666;			
-}
-#sidebar ul.sidemenu li a:hover {	
-	color: #1773BC;	
-}
-#sidebar ul.sidemenu ul { margin: 0 0 0 5px; padding: 0; }
-#sidebar ul.sidemenu ul li { background: none; }
-.left-box img{
-	margin-top: 250px;
-}
-
-#map{
-	/* margin: 0 auto; */
-	width: 20px;
- }
- #map img{
-	 /* margin-left: 2px; */
-	 width: 212px;
-	 height: 141.3px;
-	 
- }
-
-#cat img{
-	margin-right: -10px;
-}
-
-/* Footer */	
-#footer {
-	/* color: #C6DDEE; */
-	/* background: #CCC url(footer.jpg) no-repeat center top; */
-	background-color: rgb(120, 248, 242);
-	clear: both;
-	width: 820px;
-	height: 65px;
-	text-align: center;	
-	font-size: 92%;	
-}
-#footer a { 
-	/* color:white; */
-	text-decoration: none; 
-}
-
 /* alignment classes */
 .float-left  { float: left; }
 .float-right { float: right; }
@@ -499,4 +420,92 @@ body::-webkit-scrollbar {
 }
 .blue{
 	color: #1773BC;	
+}
+@media screen and (min-width: 1980px) {
+ 
+	#news h2{
+		margin-top: 100px;
+	}
+    #wrap {
+		width: 1100px;
+	
+		
+	}
+	
+	.content{
+		width: 1100px;
+		
+	
+	}
+	#content-wrap{
+		width: 1000px;
+	}
+
+	#header{
+
+		width: 1100px;
+	}
+	#menu{
+
+		width: 1100px;
+	}
+}
+
+
+@media screen and (max-width: 1980px) {
+ 
+
+    #wrap {
+		width: 900px;
+	
+		
+	}
+	
+	.content{
+		width: 900px;
+		
+	
+	}
+	#content-wrap{
+		width: 800px;
+	}
+
+	#header{
+
+		width: 900px;
+	}
+	#menu{
+
+		width: 900px;
+	}
+}
+
+@media screen and (min-width: 3000px) {
+ 
+	#news h2{
+		margin-top: 100px;
+	}
+    #wrap {
+		width: 1500px;
+	
+		
+	}
+	
+	.content{
+		width: 1500px;
+		
+	
+	}
+	#content-wrap{
+		width: 1350px;
+	}
+
+	#header{
+
+		width: 1500px;
+	}
+	#menu{
+
+		width: 1500px;
+	}
 }
