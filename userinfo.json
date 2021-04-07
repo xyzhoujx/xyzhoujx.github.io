@@ -2,11 +2,11 @@
     "Journalpapers": [
     { 
         "author":"Xinyu Zhou, Jiaxin Lu, Junhong Huang, Maosheng Zhong, Mingwen Wang" , 
-        "paper":"Enhancing Artificial Bee Colony Algorithm with Multi-elite Guidance. Information Sciences, 543: 242-258, 2021",
+        "paper":"Enhancing Artificial Bee Colony Algorithm with Multi-elite Guidance. Information Sciences, 543: 242-258, 2021.",
         "url":"https://www.sciencedirect.com/science/article/pii/S0020025520307003" },
     { 
         "author":"Xinyu Zhou, Yunan Liu, Mingwen Wang, Jianyi Wan" , 
-        "paper":"Modified Multi-strategy Artificial Bee Colony Algorithm for Optimizing Node Coverage Problem. International Journal of Wireless and Mobile Computing, 19(3): 292-301, 2020",
+        "paper":"Modified Multi-strategy Artificial Bee Colony Algorithm for Optimizing Node Coverage Problem. International Journal of Wireless and Mobile Computing, 19(3): 292-301, 2020.",
         "url":"https://www.inderscienceonline.com/doi/abs/10.1504/IJWMC.2020.111217" },
     { 
         "author":"Sun Can, Zhou Xinyu, Wang Mingwen" , 
@@ -22,15 +22,15 @@
         "url":"https://www.infona.pl/resource/bwmeta1.element.springer-doi-10_1007-S00500-014-1549-5" },
     { 
         "author":"Xinyu Zhou, Mingwen Wang, Jianyi Wan" , 
-        "paper":"Differential Evolution Algorithm with Dynamic Population Scheme. International Journal of Wireless and Mobile Computing, 10(3): 261-271, 2016",
+        "paper":"Differential Evolution Algorithm with Dynamic Population Scheme. International Journal of Wireless and Mobile Computing, 10(3): 261-271, 2016.",
         "url":"https://www.inderscienceonline.com/doi/abs/10.1504/IJWMC.2016.077212" },
     { 
         "author":"Zhou XY, Wu ZJ, Wang MW" , 
-        "paper":"Artificial bee colony algorithm based on orthogonal experimental design. Ruan Jian Xue Bao/Journal of Software, 2015,26(9):2167−2190 ",
+        "paper":"Artificial bee colony algorithm based on orthogonal experimental design. Ruan Jian Xue Bao/Journal of Software, 2015,26(9):2167−2190.",
         "url":"https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLAST2015&filename=RJXB201509002&v=L6ld7J6zNXYggLDQVkwWUG2ZFqzXCANL9xsq0SXjOpjpvFs0KJ0sJmb8YTcnDfH9" },
     { 
         "author":"Xinyu Zhou, Zhijian Wu, Changshou Deng, Hu Peng" , 
-        "paper":"Enhancing Artificial Bee Colony Algorithm with Generalized Opposition-Based Learning. International Journal of Computing Science and Mathematics, 6(3): 297-309, 2015",
+        "paper":"Enhancing Artificial Bee Colony Algorithm with Generalized Opposition-Based Learning. International Journal of Computing Science and Mathematics, 6(3): 297-309, 2015.",
         "url":"https://www.inderscienceonline.com/doi/abs/10.1504/IJCSM.2015.069746" },
     
     { 
@@ -56,7 +56,7 @@
 
     { 
         "author":"Qiyu Cai, Xinyu Zhou*, Anquan Jie, Maosheng Zhong, Mingwen Wang" , 
-        "paper":"Enhancing Artificial Bee Colony Algorithm with Dynamic Best Neighbor-guided Search Strategy. IEEE Congress on Evolutionary Computation",
+        "paper":"Enhancing Artificial Bee Colony Algorithm with Dynamic Best Neighbor-guided Search Strategy. IEEE Congress on Evolutionary Computation.",
         "url":"https://ieeexplore.ieee.org/abstract/document/9185805" },
     { 
         "author":"Qiyu Cai, Xinyu Zhou*, Anquan Jie, Mingwen Wang" , 
@@ -107,11 +107,11 @@
     "JournalpapersC": [
         { 
             "author":"Xinyu Zhou, Jiaxin Lu, Junhong Huang, Maosheng Zhong, Mingwen Wang" , 
-            "paper":"Enhancing Artificial Bee Colony Algorithm with Multi-elite Guidance. Information Sciences, 543: 242-258, 2021(CCF推荐中文期刊, 通信作者)",
+            "paper":"Enhancing Artificial Bee Colony Algorithm with Multi-elite Guidance. Information Sciences, 543: 242-258, 2021. (CCF推荐中文期刊, 通信作者)",
             "url":"https://www.sciencedirect.com/science/article/pii/S0020025520307003" },
         { 
             "author":"Xinyu Zhou, Yunan Liu, Mingwen Wang, Jianyi Wan" , 
-            "paper":"Modified Multi-strategy Artificial Bee Colony Algorithm for Optimizing Node Coverage Problem. International Journal of Wireless and Mobile Computing, 19(3): 292-301, 2020",
+            "paper":"Modified Multi-strategy Artificial Bee Colony Algorithm for Optimizing Node Coverage Problem. International Journal of Wireless and Mobile Computing, 19(3): 292-301, 2020.",
             "url":"https://www.inderscienceonline.com/doi/abs/10.1504/IJWMC.2020.111217" },
         { 
             "author":"孙灿 (学生), 周新宇*, 王明文" , 
@@ -127,7 +127,7 @@
             "url":"https://www.infona.pl/resource/bwmeta1.element.springer-doi-10_1007-S00500-014-1549-5" },
         { 
             "author":"Xinyu Zhou, Mingwen Wang, Jianyi Wan" , 
-            "paper":"Differential Evolution Algorithm with Dynamic Population Scheme. International Journal of Wireless and Mobile Computing, 10(3): 261-271, 2016",
+            "paper":"Differential Evolution Algorithm with Dynamic Population Scheme. International Journal of Wireless and Mobile Computing, 10(3): 261-271, 2016.",
             "url":"https://www.inderscienceonline.com/doi/abs/10.1504/IJWMC.2016.077212" },
         { 
             "author":"周新宇, 吴志健, 王明文" , 
@@ -135,7 +135,7 @@
             "url":"https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLAST2015&filename=RJXB201509002&v=L6ld7J6zNXYggLDQVkwWUG2ZFqzXCANL9xsq0SXjOpjuxjW%25mmd2FD5tkhiVIdFRQ3e5P" },
         { 
             "author":"Xinyu Zhou, Zhijian Wu, Changshou Deng, Hu Peng" , 
-            "paper":"Enhancing Artificial Bee Colony Algorithm with Generalized Opposition-Based Learning. International Journal of Computing Science and Mathematics, 6(3): 297-309, 2015",
+            "paper":"Enhancing Artificial Bee Colony Algorithm with Generalized Opposition-Based Learning. International Journal of Computing Science and Mathematics, 6(3): 297-309, 2015.",
             "url":"https://www.inderscienceonline.com/doi/abs/10.1504/IJCSM.2015.069746" },
         
         { 
