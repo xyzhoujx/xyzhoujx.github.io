@@ -49,39 +49,46 @@
 
 					<h2 style="font-size: 20px;"><img src="images/paper.png" alt="" srcset=""
 							style="width: 15px;height: 15px;"> Journal papers</h2>
-					<ol>
+					<ul>
 
 						<div class="Journalpapers"></div>
 
 						<!--定义模板 Journalpapers-->
 						<script type="text/html" id="templateJournalpapers">
-								<% for(var i=0; i<items.length; i++){ %>
-									<li >								
-										<%=items[i].author%>. <a href=<%=items[i].url%> target="_blank"><%=items[i].title%></a>. <%=items[i].source%>								
-									</li>
-									<br><br>
-								<% } %>
+							<%for (var i =0; i<items.length;i++){%>
+								<li>
+						
+									<%=items[i].author%>. <a href=<%=items[i].url%> target="_blank"><%=items[i].title%>.</a> <%=items[i].source%>
+									
+								</li>
+							<br><br>
+							<%}%>
+
+									
+
+
+
 
 						</script>
 
-						<br><br><br>
+						<br><br>
 
-					</ol>
+					</ul>
 
 					<h2 style="font-size: 20px;"><img src="images/paper.png" alt="" srcset=""
 							style="width: 15px;height: 15px;"> Conference papers</h2>
-					<ol>
+					<ul>
 
 						<div class="Conferencepapers"></div>
 
 						<!--定义模板  Conferencepapers-->
 						<script type="text/html" id="templateConferencepapers">
 								<%for (var i =0; i<items.length;i++){%>
-								<li >
-									
-									<%=items[i].author%>. <a href=<%=items[i].url%> target="_blank"><%=items[i].paper%></a>
+									<li>
 							
-								</li>
+										<%=items[i].author%>. <a href=<%=items[i].url%> target="_blank"><%=items[i].title%>.</a> <%=items[i].source%>
+										
+									</li>
 								<br><br>
 								<%}%>
 
@@ -89,7 +96,7 @@
 
 						<br><br><br>
 
-					</ol>
+					</ul>
 
 					<br><br>
 

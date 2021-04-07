@@ -28,6 +28,7 @@ a{
 }
 
 
+ul,li{margin:0;padding:0}
 
 /* 鼠标悬停在链接上 */
 a:hover {
@@ -108,10 +109,17 @@ p{
 	line-height: 24px;
 }
 
-ul, ol {
-	margin: 5px 20px;
-	padding: 0 20px;
+.chinese ul{
+	padding-left: 20px;
+	padding-right: 20px;
 }
+.content ul{
+	padding-left: 20px;
+	padding-right: 20px;
+}
+
+
+
 
 code {
   margin: 5px 0;
@@ -341,17 +349,25 @@ input.button {
 	text-decoration: none;
 }
 
-#news ul li {
+ul li {
 	/* list-style-image: url(bullet.gif); */
 	list-style-type:none;
 	
 }
-#news ul li:before{
+#main ul li{
+	position: relative;
+	padding-left:16px ;
+}
+#main ul li:before{
+	position: absolute;
+	left: 0px;
+	top: 0px;
 	content:"\2022";     
 	color:#148AE0;    
 	font-size:16px;   
 	margin-right: 4px;     
 }
+
 .chinese h2 a{
 	background: none;
 	color: #148AE0;
@@ -369,9 +385,10 @@ input.button {
 	content:"\2022";     
 	color:#148AE0;    
 	font-size:16px;   
-	padding-right: 8px; 
+	margin-right: 8px;
 	 
 }
+
 
 
 #email{

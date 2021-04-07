@@ -49,7 +49,7 @@
 				<div id="main" class="chinese">
 
 					<h2 style="font-size: 20px;">个人概况</h2>
-					<ul style="margin-left: 5px;">
+					<ul >
 						<div class="Introduction" style="text-align: justify; text-justify: inter-character">
 							<p><b style="color: brown">周新宇</b>，男，1987年生，博士，副教授。2014年毕业于武汉大学计算机软件与理论专业获工学博士学位，2011年和2008年毕业于江西理工大学计算机科学与技术专业分别获工学学士和硕士学位。目前主要从事进化计算及其应用方面的研究，主持了国家自然科学基金项目2项、江西省自然科学基金项目2项、国家重点实验室开放基金项目1项、江西省教育厅科技计划项目1项；以第一作者和通讯作者发表了论文近30篇，含中国计算机学会CCF推荐的期刊和会议论文10余篇，1篇论文于2017年被评为“领跑者5000——中国精品科技期刊顶尖学术论文”，2篇论文获最佳会议论文奖；担任了多个权威期刊和会议的审稿人，如：Information Sciences、计算机学报、自动化学报、IEEE CEC等；指导的研究生多次获批江西省研究生创新基金项目，发表了相关的高水平学术论文等；担任中国仿真学会智能仿真优化与调度专业委员会委员，江西师范大学计算机信息工程学院学术委员会委会等。
 							</p>
@@ -68,7 +68,7 @@
 
 
 					<h2 style="font-size: 20px;">教育和工作经历</h2>
-					<ul style="margin-left: 5px;">
+					<ul >
 						<div>
 							<li>2019.12-2020.12，<a href="https://www.surrey.ac.uk" target="_blank">University of Surrey</a>，国家公派访问学者，合作导师：<a href="https://www.surrey.ac.uk/people/yaochu-jin" target="_blank">Yaochu Jin</a>教授</li>
 							<li>2017.12-至今，江西师范大学，副教授</li>
@@ -83,7 +83,7 @@
 	
 
 					<h2 style="font-size: 20px;">科研项目情况</h2>
-					<ul style="margin-left: 5px;">
+					<ul >
 						<div class="publish">
 						    <li>国家自然科学基金地区科学基金项目，2020.01-2023.12，39万元，主持，在研</li>
 						    <li>江西省自然科学基金项目，2019.01-2021.12，6万元，主持，在研</li>
@@ -97,41 +97,58 @@
 
 
 					<h2 style="font-size: 20px;">期刊论文</h2>
-					<ul>
+					<ul >
 
 						<div class="Journalpapers"></div>
 
 
 						<!--定义模板-->
 						<script type="text/html" id="templateJournalpapers">
-							<%for (var i =0; i<items.length;i++){%>
+							<% for(var i=0; i<items.length; i++){ %>
+								<% if(items[i].type==2) {%>
+								
+								
 								<li>
 							
-									<%=items[i].author%>. <a href=<%=items[i].url%> target="_blank"><%=items[i].paper%></a>	
+									<%=items[i].Cauthor%>. <a href=<%=items[i].url%> target="_blank"><%=items[i].Ctitle%>.</a> <%=items[i].Csource%> <%=items[i].description%>
 									
 								</li>
-								
-							<%}%>
+									<br><br>
+
+									<% } %>
+									<% if(items[i].type==1) {%>
+									
+									<li>
+							
+										<%=items[i].author%>. <a href=<%=items[i].url%> target="_blank"><%=items[i].title%>.</a> <%=items[i].source%> <%=items[i].description%>
+										
+									</li>
+										<br><br>
+										<% } %>
+
+									
+								<% } %>
+
 						</script>
 						<br>
 					</ul>
 
 					<h2 style="font-size: 20px;">会议论文</h2>
-					<ol>
+					<ul >
 						<div class="Conferencepapers"></div>
 						<!--定义模板-->
 						<script type="text/html" id="templateConferencepapers">
 							<%for (var i =0; i<items.length;i++){%>
-							<li >
-								
-								<%=items[i].author%>. <a href=<%=items[i].url%> target="_blank"><%=items[i].paper%></a>
-								
-							</li>
+								<li>
+							
+									<%=items[i].author%>. <a href=<%=items[i].url%> target="_blank"><%=items[i].title%>.</a> <%=items[i].source%><%=items[i].description%>	
+									
+								</li>
 							<br><br>
 							<%}%>
 
 						</script>
-					</ol>
+					</ul>
 					<br><br>
 				</div>
 
@@ -156,8 +173,8 @@
 				success: function (data) {
 
 					// 转化为js对象 数组
-					var Journalpapers = data.JournalpapersC;
-					var Conferencepapers = data.ConferencepapersC;
+					var Journalpapers = data.Journalpapers;
+					var Conferencepapers = data.Conferencepapers;
 					// 包装为js对象
 					var objJournalpapers = {
 						items: Journalpapers
