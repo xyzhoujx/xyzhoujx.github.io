@@ -2,7 +2,8 @@
     "Journalpapers": [
     { 
         "author":"Xinyu Zhou, Jiaxin Lu, Junhong Huang, Maosheng Zhong, Mingwen Wang" , 
-        "paper":"Enhancing Artificial Bee Colony Algorithm with Multi-elite Guidance. Information Sciences, 543: 242-258, 2021.",
+        "title":"Enhancing Artificial Bee Colony Algorithm with Multi-elite Guidance",
+        "source":"Information Sciences, 543: 242-258, 2021.",
         "url":"https://www.sciencedirect.com/science/article/pii/S0020025520307003" },
     { 
         "author":"Xinyu Zhou, Yunan Liu, Mingwen Wang, Jianyi Wan" , 
@@ -14,7 +15,7 @@
         "url":"https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLAST2020&filename=XTFZ202006011&v=eLe5N9%25mmd2BvhWLCLaFNYXR9DtWVKU%25mmd2Fl8vS18l5iBFv21tDOQAjtjwbS7ut9RPc63AXL" },
     { 
         "author":"Xinyu Zhou, Hui Wang, Mingwen Wang, Jianyi Wan" , 
-        "paper":"Enhancing the Modified Artificial Bee Colony Algorithm with Neighborhood Search. Soft Computing, 21(10): 2733-2743, 2017. ",
+        "paper":"Enhancing the Modified Artificial Bee Colony Algorithm with Neighborhood Search. Soft Computing, 21(10): 2733-2743, 2017.",
         "url":"https://link.springer.com/article/10.1007/s00500-015-1977-x" },
     { 
         "author":"Xinyu Zhou, Zhijian Wu, Hui Wang" , 

@@ -55,14 +55,12 @@
 
 						<!--定义模板 Journalpapers-->
 						<script type="text/html" id="templateJournalpapers">
-								<%for (var i =0; i<items.length;i++){%>
-									<li >
-								
-										<%=items[i].author%>. <a href=<%=items[i].url%> target="_blank"><%=items[i].paper%></a>
-									
+								<% for(var i=0; i<items.length; i++){ %>
+									<li >								
+										<%=items[i].author%>. <a href=<%=items[i].url%> target="_blank"><%=items[i].title%></a>. <%=items[i].source%>								
 									</li>
 									<br><br>
-								<%}%>
+								<% } %>
 
 						</script>
 
