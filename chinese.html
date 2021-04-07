@@ -97,7 +97,7 @@
 
 
 					<h2 style="font-size: 20px;">期刊论文</h2>
-					<ol>
+					<ul>
 
 						<div class="Journalpapers"></div>
 
@@ -105,22 +105,19 @@
 						<!--定义模板-->
 						<script type="text/html" id="templateJournalpapers">
 							<%for (var i =0; i<items.length;i++){%>
-								<li >
+								<li>
 							
 									<%=items[i].author%>. <a href=<%=items[i].url%> target="_blank"><%=items[i].paper%></a>	
 									
 								</li>
-								<br><br>
+								
 							<%}%>
-
 						</script>
-
 						<br>
-
-					</ol>
+					</ul>
 
 					<h2 style="font-size: 20px;">会议论文</h2>
-					<ol>
+					<ul>
 						<div class="Conferencepapers"></div>
 						<!--定义模板-->
 						<script type="text/html" id="templateConferencepapers">
@@ -134,12 +131,8 @@
 							<%}%>
 
 						</script>
-
-						<br>
-
-					</ol>
+					</ul>
 					<br><br>
-
 				</div>
 
 				<!-- content-wrap ends here -->
