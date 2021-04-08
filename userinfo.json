@@ -20,10 +20,10 @@
         },
         {
             "type": 2,
-            "author": "Can Sun, Xinyu Zhou*, Mingwen Wang",
+            "author": "Can Sun (Student), Xinyu Zhou*, Mingwen Wang",
             "title": "Enhancing Artificial Bee Colony Algorithm with Multi-elite Guidance",
             "source": "Journal of System Simulation, 2020, 32(6): 1071-1084.",
-            "Cauthor": "孙灿, 周新宇*, 王明文",
+            "Cauthor": "孙灿 (学生), 周新宇*, 王明文",
             "Ctitle": "一种融合邻域搜索的多策略差分进化算法",
             "Csource": "系统仿真学报, 32(6): 1071-1084, 2020.",
             "url": "http://www.china-simulation.com/CN/10.16182/j.issn1004731x.joss.18-0787",
@@ -127,7 +127,7 @@
     "Conferencepapers": [
         {
             "type": 1,
-            "author": "Qiyu Cai, Xinyu Zhou*, Anquan Jie, Maosheng Zhong, Mingwen Wang",
+            "author": "Qiyu Cai  (Student), Xinyu Zhou*, Anquan Jie, Maosheng Zhong, Mingwen Wang",
             "title": "Enhancing Artificial Bee Colony Algorithm with Dynamic Best Neighbor-guided Search Strategy",
             "source": "IEEE Congress on Evolutionary Computation (CEC 2020). Glasgow: IEEE, 2020.",
             "url": "https://ieeexplore.ieee.org/abstract/document/9185805",
@@ -136,7 +136,7 @@
         },
         {
             "type": 1,
-            "author": "Qiyu Cai, Xinyu Zhou*, Anquan Jie, Mingwen Wang",
+            "author": "Qiyu Cai  (Student), Xinyu Zhou*, Anquan Jie, Mingwen Wang",
             "title": "Enhancing Artificial Bee Colony Algorithm with Directional Information",
             "source": "The 26th International Conference on Neural Information Processing (ICONIP 2019). Sydney: Springer, 2019.",
             "url": "https://link.springer.com/chapter/10.1007/978-3-030-36808-1_81",
@@ -154,16 +154,16 @@
         },
         {
             "type": 1,
-            "author": "Can Sun, Xinyu Zhou*, Mingwen Wang",
+            "author": "Can Sun  (Student), Xinyu Zhou*, Mingwen Wang",
             "title": "A Multi-Strategy Artificial Bee Colony Algorithm with Neighborhood Search",
             "source": "The 10th International Conference on Swarm Intelligence (ICSI 2019). Chiang Mai: Springer, 2019.",
             "url": "https://link.springer.com/chapter/10.1007/978-3-030-26369-0_29",
             "description": "(Corresponding author)",
-            "Cdescription": " (领域知名会议，通讯作者)"
+            "Cdescription": "(领域知名会议，通讯作者)"
         },
         {
             "type": 1,
-            "author": "Jiaxin Lu, Xinyu Zhou*, Yong Ma, Mingwen Wang, Jianyi Wan, Wenjun Wang",
+            "author": "Jiaxin Lu  (Student), Xinyu Zhou*, Yong Ma, Mingwen Wang, Jianyi Wan, Wenjun Wang",
             "title": "A Novel Artificial Bee Colony Algorithm with Division of Labor for Solving CEC 2019 100-Digit Challenge Benchmark Problems",
             "source": "IEEE Congress on Evolutionary Computation (CEC 2019). Wellington: IEEE, 2019.",
             "url": "https://ieeexplore.ieee.org/abstract/document/8790252",
@@ -198,7 +198,7 @@
         },
         {
             "type": 1,
-            "author": "Jiaxin Lu, Xinyu Zhou*, Yong Ma, Mingwen Wang",
+            "author": "Jiaxin Lu  (Student), Xinyu Zhou*, Yong Ma, Mingwen Wang",
             "title": "An Elite Group Guided Artificial Bee Colony Algorithm with a Modified Neighborhood Search",
             "source": "The 15th Pacific Rim International Conference on Artificial Intelligence (PRICAI 2018). Nanjing: Springer, 2018.",
             "url": "https://link.springer.com/chapter/10.1007/978-3-319-97310-4_44",
