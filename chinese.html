@@ -113,8 +113,7 @@
                                                 <%=items[i].Csource%>
                                                     <%=items[i].Cdescription%>
 
-                                        </li>
-                                        
+                                        </li>                                        
                                         <br>
 
                                    <% } %>
@@ -127,8 +126,7 @@
                                                  <%=items[i].source%>
                                                        <%=items[i].Cdescription%>
 
-                                        </li>
-                                        
+                                        </li>                                        
                                         <br>
                                  <% } %>
 
@@ -144,7 +142,7 @@
                         <div class="Conferencepapers"></div>
                         <!--定义模板-->
                         <script type="text/html" id="templateConferencepapers">
-                            <%for (var i =0; i<items.length;i++){%>
+                            <%for (var i =0; i<items.length; i++){%>
                                 <li>
 
                                     <%=items[i].author%>. <a href=<%=items[i].url%> target="_blank"><%=items[i].title%>.</a>
@@ -152,9 +150,8 @@
                                             <%=items[i].Cdescription%>
 
                                 </li>
-                                <br>
-                                <br>
-                                <%}%>
+                                <br>                                
+                             <%}%>
 
                         </script>
                     </ul>
