@@ -27,9 +27,9 @@
                 <br>
                 <br>
                 
-				<a href="index.html" style="font-family: Arial; font-size: 25px; letter-spacing: 1px;margin-top: 18px;" >
+				<a href="index.html" style="font-family: Arial; font-size: 28px; letter-spacing: 1px; margin-top: 18px;" >
 					Homepage of Xinyu Zhou / 周新宇个人主页               
-					</a>
+				</a>
 			</h1>
 
         </div>
@@ -107,12 +107,9 @@
                             <% for(var i=0; i<items.length; i++){ %>
                                 <% if(items[i].type==2) {%>
 
-
                                     <li>
 
-                                        <%=items[i].Cauthor%>. <a href=<%=items[i].url%> target="_blank"><%=items[i].Ctitle%>.</a>
-                                            <%=items[i].Csource%>
-                                                <%=items[i].description%>
+                                        <%=items[i].Cauthor%>. <a href=<%=items[i].url%> target="_blank"><%=items[i].Ctitle%></a>. <%=items[i].Csource%><%=items[i].Cdescription%>
 
                                     </li>
                                     <br>
@@ -123,9 +120,7 @@
 
                                             <li>
 
-                                                <%=items[i].author%>. <a href=<%=items[i].url%> target="_blank"><%=items[i].title%>.</a>
-                                                    <%=items[i].source%>
-                                                        <%=items[i].description%>
+                                                <%=items[i].author%>. <a href=<%=items[i].url%> target="_blank"><%=items[i].title%>.</a> <%=items[i].source%> <%=items[i].Cdescription%>
 
                                             </li>
                                             <br>
@@ -147,9 +142,7 @@
                             <%for (var i =0; i<items.length;i++){%>
                                 <li>
 
-                                    <%=items[i].author%>. <a href=<%=items[i].url%> target="_blank"><%=items[i].title%>.</a>
-                                        <%=items[i].source%>
-                                            <%=items[i].description%>
+                                    <%=items[i].author%>. <a href=<%=items[i].url%> target="_blank"><%=items[i].title%>.</a> <%=items[i].source%> <%=items[i].Cdescription%>
 
                                 </li>
                                 <br>
