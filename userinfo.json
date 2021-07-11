@@ -2,12 +2,20 @@
     "Journalpapers": [
         {
             "type": 1,
+            "author": "Xinyu Zhou, Yanlin Wu, Maosheng Zhong, Mingwen Wang",
+            "title": "Artificial Bee Colony Algorithm based on Multiple Neighborhood Topologies",
+            "source": "Applied Soft Computing, 2021.",
+            "url": "https://www.journals.elsevier.com/applied-soft-computing",
+            "description": "",
+            "Cdescription": "(CCF推荐期刊, 领域权威期刊)"
+        },{
+            "type": 1,
             "author": "Xinyu Zhou, Jiaxin Lu, Junhong Huang, Maosheng Zhong, Mingwen Wang",
             "title": "Enhancing Artificial Bee Colony Algorithm with Multi-elite Guidance",
             "source": "Information Sciences, 543: 242-258, 2021.",
             "url": "https://www.sciencedirect.com/science/article/pii/S0020025520307003",
             "description": "",
-            "Cdescription": "(CCF推荐期刊)"
+            "Cdescription": "(CCF推荐期刊, 领域权威期刊)"
         },
         {
             "type": 1,
@@ -37,7 +45,7 @@
             "source": "Soft Computing, 21(10): 2733-2743, 2017.",
             "url": "https://link.springer.com/article/10.1007/s00500-015-1977-x",
             "description": "",
-            "Cdescription": "(CCF推荐期刊)"
+            "Cdescription": "(CCF推荐期刊, 领域知名期刊)"
         },
         {
             "type": 1,
@@ -46,7 +54,7 @@
             "source": "Soft Computing, 20(3): 907-924, 2016. ",
             "url": "https://link.springer.com/article/10.1007/s00500-014-1549-5",
             "description": "",
-            "Cdescription": "(CCF推荐期刊)"
+            "Cdescription": "(CCF推荐期刊, 领域知名期刊)"
         },
         {
             "type": 1,
@@ -67,7 +75,7 @@
             "Csource": "软件学报, 26(9): 2167-2190, 2015.",
             "url": "http://www.jos.org.cn/jos/ch/reader/view_abstract.aspx?flag=1&file_no=4800&journal_id=jos",
             "description": "",
-            "Cdescription": "(CCF推荐中文期刊)"
+            "Cdescription": "(CCF推荐中文期刊, 国内权威期刊)"
         },
         {
             "type": 1,
@@ -97,7 +105,7 @@
             "source": "Soft Computing, 18(11): 2209-2225, 2014.",
             "url": "https://link.springer.com/article/10.1007/s00500-013-1195-3",
             "description": "",
-            "Cdescription": "(CCF推荐期刊)"
+            "Cdescription": "(CCF推荐期刊, 领域知名期刊)"
         },
         {
             "type": 2,
@@ -109,7 +117,7 @@
             "Csource": "电子学报, 41(08): 1647-1652, 2013.",
             "url": "http://www.ejournal.org.cn/CN/abstract/abstract7622.shtml",
             "description": "",
-            "Cdescription": "(CCF推荐中文期刊)"
+            "Cdescription": "(CCF推荐中文期刊, 国内权威期刊)"
         },
         {
             "type": 2,
