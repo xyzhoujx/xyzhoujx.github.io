@@ -2,6 +2,15 @@
     "Journalpapers": [
         {
             "type": 1,
+            "author": "Xinyu Zhou, Hao Tang, Shuixiu Wu, Mingwen Wang",
+            "title": "Enhancing Artificial Bee Colony Algorithm with Depth-first Search and Direction Information",
+            "source": "International Journal of Wireless and Mobile Computing, 2021.",
+            "url": "https://www.inderscience.com/jhome.php?jcode=ijwmc",
+            "description": "(Accepted)",
+            "Cdescription": "(已录用, EI期刊)"
+        },
+		{
+            "type": 1,
             "author": "Xinyu Zhou, Yanlin Wu, Maosheng Zhong, Mingwen Wang",
             "title": "Artificial Bee Colony Algorithm based on Multiple Neighborhood Topologies",
             "source": "Applied Soft Computing, 111: 107697, 2021.",
@@ -17,15 +26,6 @@
             "url": "https://www.sciencedirect.com/science/article/pii/S0020025520307003",
             "description": "",
             "Cdescription": "(SCI一区TOP期刊, CCF推荐期刊, 领域权威期刊)"
-        },
-		{
-            "type": 1,
-            "author": "Xinyu Zhou, Hao Tang, Shuixiu Wu, Mingwen Wang",
-            "title": "Enhancing Artificial Bee Colony Algorithm with Depth-first Search and Direction Information",
-            "source": "International Journal of Wireless and Mobile Computing, 2021.",
-            "url": "https://www.inderscience.com/jhome.php?jcode=ijwmc",
-            "description": "(Accepted)",
-            "Cdescription": "(已录用, EI期刊)"
         },
         {
             "type": 1,
