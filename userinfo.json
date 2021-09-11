@@ -1,0 +1,269 @@
+{
+    "Journalpapers": [{
+            "type": 1,
+            "author": "<b>Xinyu Zhou</b>, Hao Tang, Shuixiu Wu, Mingwen Wang",
+            "title": "Enhancing Artificial Bee Colony Algorithm with Depth-first Search and Direction Information",
+            "source": "International Journal of Wireless and Mobile Computing, 2021.",
+            "url": "https://www.inderscience.com/jhome.php?jcode=ijwmc",
+            "description": "(Accepted)",
+            "Cdescription": "(已录用, EI期刊)"
+        },
+        {
+            "type": 1,
+            "author": "<b>Xinyu Zhou</b>, Yanlin Wu, Maosheng Zhong, Mingwen Wang",
+            "title": "Artificial Bee Colony Algorithm based on Multiple Neighborhood Topologies",
+            "source": "Applied Soft Computing, 111: 107697, 2021.",
+            "url": "https://www.sciencedirect.com/science/article/pii/S1568494621006189",
+            "description": "",
+            "Cdescription": "(SCI一区TOP期刊, 领域权威期刊)"
+        },        
+        {
+            "type": 1,
+            "author": "<b>Xinyu Zhou</b>, Yanlin Wu, Shuixiu Wu, Maosheng Zhong, Mingwen Wang",
+            "title": "Accelerating Artificial Bee Colony Algorithm using Elite Information",
+            "source": "International Journal of Innovative Computing and Applications, 2021.",
+            "url": "https://www.inderscience.com/jhome.php?jcode=ijica",
+            "description": "(In Press)",
+            "Cdescription": "(已录用, EI期刊)"
+        },
+		{
+            "type": 1,
+            "author": "<b>Xinyu Zhou</b>, Jiaxin Lu, Junhong Huang, Maosheng Zhong, Mingwen Wang",
+            "title": "Enhancing Artificial Bee Colony Algorithm with Multi-elite Guidance",
+            "source": "Information Sciences, 543: 242-258, 2020.",
+            "url": "https://www.sciencedirect.com/science/article/pii/S0020025520307003",
+            "description": "",
+            "Cdescription": "(SCI一区TOP期刊, CCF推荐期刊, 领域权威期刊)"
+        },
+        {
+            "type": 1,
+            "author": "<b>Xinyu Zhou</b>, Yunan Liu, Mingwen Wang, Jianyi Wan",
+            "title": "Modified Multi-strategy Artificial Bee Colony Algorithm for Optimizing Node Coverage Problem",
+            "source": "International Journal of Wireless and Mobile Computing, 19(3): 292-301, 2020.",
+            "url": "https://www.inderscienceonline.com/doi/abs/10.1504/IJWMC.2020.111217",
+            "description": "",
+            "Cdescription": "(EI期刊)"
+        },
+        {
+            "type": 2,
+            "author": "Can Sun (Student), <b>Xinyu Zhou*</b>, Mingwen Wang",
+            "title": "Enhancing Artificial Bee Colony Algorithm with Multi-elite Guidance",
+            "source": "Journal of System Simulation, 2020, 32(6): 1071-1084.",
+            "Cauthor": "孙灿 (学生), <b>周新宇</b>*, 王明文",
+            "Ctitle": "一种融合邻域搜索的多策略差分进化算法",
+            "Csource": "系统仿真学报, 32(6): 1071-1084, 2020.",
+            "url": "http://www.china-simulation.com/CN/10.16182/j.issn1004731x.joss.18-0787",
+            "description": "(Corresponding author)",
+            "Cdescription": "(CCF推荐中文期刊，通讯作者)"
+        },
+        {
+            "type": 1,
+            "author": "<b>Xinyu Zhou</b>, Hui Wang, Mingwen Wang, Jianyi Wan",
+            "title": "Enhancing the Modified Artificial Bee Colony Algorithm with Neighborhood Search",
+            "source": "Soft Computing, 21(10): 2733-2743, 2017.",
+            "url": "https://link.springer.com/article/10.1007/s00500-015-1977-x",
+            "description": "",
+            "Cdescription": "(CCF推荐期刊, 领域知名期刊)"
+        },
+        {
+            "type": 1,
+            "author": "<b>Xinyu Zhou</b>, Zhijian Wu, Hui Wang, Shahryar Rahnamayan",
+            "title": "Gaussian Bare-Bones Artificial Bee Colony Algorithm",
+            "source": "Soft Computing, 20(3): 907-924, 2016. ",
+            "url": "https://link.springer.com/article/10.1007/s00500-014-1549-5",
+            "description": "",
+            "Cdescription": "(CCF推荐期刊, 领域知名期刊)"
+        },
+        {
+            "type": 1,
+            "author": "<b>Xinyu Zhou</b>, Mingwen Wang, Jianyi Wan",
+            "title": "Differential Evolution Algorithm with Dynamic Population Scheme",
+            "source": "International Journal of Wireless and Mobile Computing, 10(3): 261-271, 2016.",
+            "url": "https://www.inderscienceonline.com/doi/abs/10.1504/IJWMC.2016.077212",
+            "description": "",
+            "Cdescription": "(EI期刊)"
+        },
+        {
+            "type": 2,
+            "author": "<b>Xinyu Zhou</b>, Zhijian Wu, Mingwen Wang",
+            "title": "Artificial bee colony algorithm based on orthogonal experimental design",
+            "source": "Journal of Software, 2015, 26(9): 2167−2190.",
+            "Cauthor": "<b>周新宇</b>, 吴志健, 王明文",
+            "Ctitle": "基于正交实验设计的人工蜂群算法",
+            "Csource": "软件学报, 26(9): 2167-2190, 2015.",
+            "url": "http://www.jos.org.cn/jos/ch/reader/view_abstract.aspx?flag=1&file_no=4800&journal_id=jos",
+            "description": "",
+            "Cdescription": "(CCF推荐中文期刊, 国内权威期刊)"
+        },
+        {
+            "type": 1,
+            "author": "<b>Xinyu Zhou</b>, Zhijian Wu, Changshou Deng, Hu Peng",
+            "title": "Enhancing Artificial Bee Colony Algorithm with Generalized Opposition-Based Learning",
+            "source": "International Journal of Computing Science and Mathematics, 6(3): 297-309, 2015.",
+            "url": "https://www.inderscienceonline.com/doi/abs/10.1504/IJCSM.2015.069746",
+            "description": "",
+            "Cdescription": "(EI期刊)"
+        },
+        {
+            "type": 2,
+            "author": "<b>Xinyu Zhou</b>, Zhijian Wu, Changshou Deng, Hu Peng",
+            "title": "Neighborhood search-based artificial bee colony algorithm",
+            "source": "Journal of Central South University (Science and Technology), 46(2):534-546, 2015.",
+            "Cauthor": "<b>周新宇</b>, 吴志健, 邓长寿, 彭虎",
+            "Ctitle": "一种邻域搜索的人工蜂群算法",
+            "Csource": "中南大学学报(自然科学版), 46(2):534-546, 2015.",
+            "url": "http://www.zndxzk.com.cn/paper/paperView.aspx?id=paper_308796",
+            "description": "",
+            "Cdescription": "(EI期刊)"
+        },
+        {
+            "type": 1,
+            "author": "<b>Xinyu Zhou</b>, Zhijian Wu, Hui Wang, Shahryar Rahnamayan",
+            "title": "Enhancing Differential Evolution with Role Assignment Scheme",
+            "source": "Soft Computing, 18(11): 2209-2225, 2014.",
+            "url": "https://link.springer.com/article/10.1007/s00500-013-1195-3",
+            "description": "",
+            "Cdescription": "(CCF推荐期刊, 领域知名期刊)"
+        },
+        {
+            "type": 2,
+            "author": "<b>Xinyu Zhou</b>, Zhijian Wu, Hui Wang, Kangshun Li, Haoyu Zhang",
+            "title": "Elite Opposition-based Particle Swarm Optimization",
+            "source": "ACTA ELECTRONICA SINICA, 41(08): 1647-1652, 2013.",
+            "Cauthor": "<b>周新宇</b>, 吴志健, 王晖, 李康顺, 张浩宇",
+            "Ctitle": "一种精英反向学习的粒子群优化算法",
+            "Csource": "电子学报, 41(08): 1647-1652, 2013.",
+            "url": "http://www.ejournal.org.cn/CN/abstract/abstract7622.shtml",
+            "description": "",
+            "Cdescription": "(CCF推荐中文期刊, 领跑者5000——中国精品科技期刊顶尖学术论文)"
+        },
+        {
+            "type": 2,
+            "author": "<b>Xinyu Zhou</b>, Zhijian Wu, Hui Wang",
+            "title": "A Differential Evolution Algorithm Using Elite Opposition-based Learning",
+            "source": "Journal of Chinese Computer Systems, 34(09): 2129-2134, 2013.",
+            "Cauthor": "<b>周新宇</b>, 吴志健, 王晖",
+            "Ctitle": "一种精英反向学习的差分演化算法",
+            "Csource": "小型微型计算机系统, 34(09): 2129-2134, 2013.",
+            "url": "http://xwxt.sict.ac.cn/CN/abstract/abstract161.shtml",
+            "description": "",
+            "Cdescription": "(CCF推荐中文期刊)"
+        }
+    ],
+    "Conferencepapers": [{
+            "type": 1,
+            "author": "<b>Xinyu Zhou</b>, Yanlin Wu, Hu Peng, Shuixiu Wu, Mingwen Wang",
+            "title": "An individual-dependent differential evolution with dual information guidance",
+            "source": "The 33rd IEEE International Conference on Tools with Artificial Intelligence (ICTAI 2021). Virtual: IEEE, 2021.",
+            "url": "https://ictai.computer.org/",
+            "description": "",
+            "Cdescription": "(CCF推荐会议)"
+        },{
+            "type": 1,
+            "author": "Qiyu Cai  (Student), <b>Xinyu Zhou*</b>, Anquan Jie, Maosheng Zhong, Mingwen Wang",
+            "title": "Enhancing Artificial Bee Colony Algorithm with Dynamic Best Neighbor-guided Search Strategy",
+            "source": "IEEE Congress on Evolutionary Computation (CEC 2020). Glasgow: IEEE, 2020.",
+            "url": "https://ieeexplore.ieee.org/abstract/document/9185805",
+            "description": "(Corresponding author)",
+            "Cdescription": "(领域顶级会议，通讯作者)"
+        },
+        {
+            "type": 1,
+            "author": "Qiyu Cai  (Student), <b>Xinyu Zhou*</b>, Anquan Jie, Mingwen Wang",
+            "title": "Enhancing Artificial Bee Colony Algorithm with Directional Information",
+            "source": "The 26th International Conference on Neural Information Processing (ICONIP 2019). Sydney: Springer, 2019.",
+            "url": "https://link.springer.com/chapter/10.1007/978-3-030-36808-1_81",
+            "description": "(Corresponding author)",
+            "Cdescription": "(CCF推荐会议，通讯作者)"
+        },
+        {
+            "type": 1,
+            "author": "<b>Xinyu Zhou</b>, Yiwen Ling, Maosheng Zhong, Mingwen Wang",
+            "title": "Dynamic Multi-Population Artificial Bee Colony Algorithm",
+            "source": "The 31st International Conference on Tools with Artificial Intelligence (ICTAI 2019). Portland: IEEE, 2019.",
+            "url": "https://ieeexplore.ieee.org/abstract/document/8995183",
+            "description": "",
+            "Cdescription": "(CCF推荐会议)"
+        },
+        {
+            "type": 1,
+            "author": "Can Sun  (Student), <b>Xinyu Zhou*</b>, Mingwen Wang",
+            "title": "A Multi-Strategy Artificial Bee Colony Algorithm with Neighborhood Search",
+            "source": "The 10th International Conference on Swarm Intelligence (ICSI 2019). Chiang Mai: Springer, 2019.",
+            "url": "https://link.springer.com/chapter/10.1007/978-3-030-26369-0_29",
+            "description": "(Corresponding author)",
+            "Cdescription": "(领域知名会议，通讯作者)"
+        },
+        {
+            "type": 1,
+            "author": "Jiaxin Lu  (Student), <b>Xinyu Zhou*</b>, Yong Ma, Mingwen Wang, Jianyi Wan, Wenjun Wang",
+            "title": "A Novel Artificial Bee Colony Algorithm with Division of Labor for Solving CEC 2019 100-Digit Challenge Benchmark Problems",
+            "source": "IEEE Congress on Evolutionary Computation (CEC 2019). Wellington: IEEE, 2019.",
+            "url": "https://ieeexplore.ieee.org/abstract/document/8790252",
+            "description": "(Corresponding author)",
+            "Cdescription": "(领域顶级会议，通讯作者)"
+        },
+        {
+            "type": 1,
+            "author": "<b>Xinyu Zhou</b>, Yunan Liu, Yong Ma, Mingwen Wang",
+            "title": "Accelerating Artificial Bee Colony Algorithm with Elite Neighborhood Learning",
+            "source": "The 18th International Conference on Algorithms and Architectures for Parallel Processing (ICA3PP 2018). Guangzhou: Springer, 2018.",
+            "url": "https://link.springer.com/chapter/10.1007/978-3-030-05051-1_31",
+            "description": "",
+            "Cdescription": "(CCF推荐会议)"
+        },
+        {
+            "type": 1,
+            "author": "<b>Xinyu Zhou</b>, Yunan Liu, Mingwen Wang, Jianyi Wan, Hui Wang, Hu Peng",
+            "title": "Differential Evolution with Multi-information Guidance",
+            "source": "The 27th Genetic and Evolutionary Computation Conference (GECCO 2018). Kyoto: ACM, 2018.",
+            "url": "https://dl.acm.org/doi/abs/10.1145/3205651.3205668",
+            "Cdescription": "(CCF推荐会议, 领域顶级会议)"
+        },
+        {
+            "type": 1,
+            "author": "<b>Xinyu Zhou</b>, Yunan Liu, Mingwen Wang, Jianyi Wan",
+            "title": "Enhancing Artificial Bee Colony Algorithm with Superior Information Learning",
+            "source": "The 15th Pacific Rim International Conference on Artificial Intelligence (PRICAI 2018). Nanjing: Springer, 2018.",
+            "url": "https://link.springer.com/chapter/10.1007/978-3-319-97304-3_71",
+            "description": "",
+            "Cdescription": "(CCF推荐会议)"
+        },
+        {
+            "type": 1,
+            "author": "Jiaxin Lu  (Student), <b>Xinyu Zhou</b>*, Yong Ma, Mingwen Wang",
+            "title": "An Elite Group Guided Artificial Bee Colony Algorithm with a Modified Neighborhood Search",
+            "source": "The 15th Pacific Rim International Conference on Artificial Intelligence (PRICAI 2018). Nanjing: Springer, 2018.",
+            "url": "https://link.springer.com/chapter/10.1007/978-3-319-97310-4_44",
+            "description": "(Corresponding author)",
+            "Cdescription": "(CCF推荐会议，通讯作者)"
+        },
+        {
+            "type": 1,
+            "author": "<b>Xinyu Zhou</b>, Hui Wang, Mingwen Wang, Jianyi Wan",
+            "title": "Selection Mechanism in Artificial Bee Colony Algorithm: A Comparative Study on Numerical Benchmark Problems",
+            "source": "The 24th International Conference on Neural Information Processing (ICONIP 2017). Guangzhou: Springer, 2017.",
+            "url": "https://link.springer.com/chapter/10.1007/978-3-319-70093-9_7",
+            "description": "",
+            "Cdescription": "(CCF推荐会议)"
+        },
+        {
+            "type": 1,
+            "author": "<b>Xinyu Zhou</b>, Mingwen Wang, Jianyi Wan, Jiali Zuo",
+            "title": "An Improved Multi-strategy Ensemble Artificial Bee Colony Algorithm with Neighborhood Search",
+            "source": "The 23rd International Conference on Neural Information Processing (ICONIP 2016). Kyoto: Springer, 2016.",
+            "url": "https://link.springer.com/chapter/10.1007/978-3-319-46681-1_58",
+            "description": "",
+            "Cdescription": "(CCF推荐会议)"
+        },
+        {
+            "type": 1,
+            "author": "<b>Xinyu Zhou</b>, Mingwen Wang, Jianyi Wan",
+            "title": "Accelerating Artificial Bee Colony Algorithm for Global Optimization",
+            "source": "The 22nd International Conference on Neural Information Processing (ICONIP 2015). Istanbul: Springer, 2015.",
+            "url": "https://link.springer.com/chapter/10.1007/978-3-319-26532-2_49",
+            "description": "",
+            "Cdescription": "(CCF推荐会议)"
+        }
+    ]
+}
