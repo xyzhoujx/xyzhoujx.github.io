@@ -152,6 +152,14 @@
     ],
     "Conferencepapers": [{
             "type": 1,
+            "author": "<b>Xinyu Zhou</b>, Junyan Song, Shuixiu Wu, Wenlong Ni, Mingwen Wang",
+            "title": "Fitness landscape analysis: from problem understanding to design of evolutionary algorithms",
+            "source": "The 16th International Conference on Bio-inspired Computing: Theories and Applications (BIC-TA 2021). Taiyuan: Springer, 2021.",
+            "url": "http://2021.bicta.org/",
+            "description": "",
+            "Cdescription": "(领域重要会议)"
+        },{
+            "type": 1,
             "author": "<b>Xinyu Zhou</b>, Yanlin Wu, Hu Peng, Shuixiu Wu, Mingwen Wang",
             "title": "An individual-dependent differential evolution with dual information guidance",
             "source": "The 33rd IEEE International Conference on Tools with Artificial Intelligence (ICTAI 2021). Virtual: IEEE, 2021.",
