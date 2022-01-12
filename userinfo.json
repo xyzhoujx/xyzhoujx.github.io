@@ -1,6 +1,15 @@
 {
     "Journalpapers": [{
             "type": 1,
+            "author": "<b>Xinyu Zhou</b>, Junhong Huang,Hao Tang, Mingwen Wang",
+            "title": "Artificial bee colony algorithm with bi-coordinate systems for global numerical optimization",
+            "source": "International Journal of Intelligent Systems, 2022.",
+            "url": "https://onlinelibrary.wiley.com/doi/10.1002/int.22816",
+            "description": "(Accepted)",
+            "Cdescription": "(已录用, SCI二区期刊, CCF推荐期刊)"
+        },
+	    {
+            "type": 1,
             "author": "<b>Xinyu Zhou</b>, Hao Tang, Shuixiu Wu, Mingwen Wang",
             "title": "Enhancing Artificial Bee Colony Algorithm with Depth-first Search and Direction Information",
             "source": "International Journal of Wireless and Mobile Computing, 2021.",
