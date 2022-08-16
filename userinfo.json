@@ -1,5 +1,14 @@
 {
     "Journalpapers": [{
+            "type": 1,
+            "author": "<b>Xinyu Zhou</b>, Yanlin Wu, Maosheng Zhong, Mingwen Wang",
+            "title": "Artificial Bee Colony Algorithm based on Adaptive Neighborhood Topologies",
+            "source": "Information Sciences, 2022.",
+            "url": "https://www.sciencedirect.com/science/article/abs/pii/S0020025522008829",
+            "description": "(In press)",
+            "Cdescription": "(SCI一区TOP期刊, CCF推荐期刊, 领域权威期刊)"
+        },
+	    {
             "type": 2,
             "author": "<b>Xinyu Zhou</b>, Jiancheng Hu, Yanlin Wu, Maosheng Zhong, Mingwen Wang*",
             "title": "A Multi-strategy Artificial Bee Colony Algorithm based on Fitness Grouping",
@@ -47,7 +56,7 @@
             "description": "(In Press)",
             "Cdescription": "(已录用, EI期刊)"
         },
-		{
+	{
             "type": 1,
             "author": "<b>Xinyu Zhou</b>, Jiaxin Lu, Junhong Huang, Maosheng Zhong, Mingwen Wang",
             "title": "Enhancing Artificial Bee Colony Algorithm with Multi-elite Guidance",
