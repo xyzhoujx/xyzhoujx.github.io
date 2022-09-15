@@ -1,5 +1,17 @@
 {
-    "Journalpapers": [{
+    "Journalpapers": [ {
+            "type": 2,
+            "author": "<b>Xinyu Zhou</b>, Ying Liu, Yanlin Wu, Jinglei Guo",
+            "title": "Artificial Bee Colony Algorithm based on Multiple Information Guidance",
+            "source": "Acta Electronica Sinica, 2022.",
+            "Cauthor": "<b>周新宇</b>, 刘颖, 吴艳林, 郭京蕾",
+            "Ctitle": "基于多元信息引导的人工蜂群算法",
+            "Csource": "电子学报, 2022.",
+            "url": "https://www.ejournal.org.cn/CN/0372-2112/home.shtml",
+            "description": "(Accepted, in Chinese)",
+            "Cdescription": "(已录用, CCF推荐中文期刊)"
+        },
+	    {
             "type": 1,
             "author": "<b>Xinyu Zhou</b>, Yanlin Wu, Maosheng Zhong, Mingwen Wang",
             "title": "Artificial Bee Colony Algorithm based on Adaptive Neighborhood Topologies",
