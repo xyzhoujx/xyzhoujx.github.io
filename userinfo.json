@@ -1,5 +1,13 @@
 {
-    "Journalpapers": [ {
+    "Journalpapers": [{
+            "type": 1,
+            "author": "<b>Xinyu Zhou</b>, Yanlin Wu, Hu Peng, Shuixiu Wu, Mingwen Wang",
+            "title": "Differential Evolution Algorithm with Dual Information Guidance",
+            "source": "International Journal on Artificial Intelligence Tools, 2022.",
+            "url": "https://www.worldscientific.com/worldscinet/ijait",
+            "description": "(Invited Paper, Accepted, JCR Q4)",
+            "Cdescription": "(SCI期刊, 约稿论文)"
+        }, {
             "type": 2,
             "author": "<b>Xinyu Zhou</b>, Ying Liu, Yanlin Wu, Jinglei Guo",
             "title": "Artificial Bee Colony Algorithm based on Multiple Information Guidance",
