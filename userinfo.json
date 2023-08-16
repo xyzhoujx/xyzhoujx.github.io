@@ -11,10 +11,10 @@
             "type": 1,
             "author": "<b>Xinyu Zhou</b>, Yanlin Wu, Hu Peng, Shuixiu Wu, Mingwen Wang",
             "title": "Differential Evolution Algorithm with Dual Information Guidance",
-            "source": "International Journal on Artificial Intelligence Tools, 2022.",
+            "source": "International Journal on Artificial Intelligence Tools, 32(5):2360001, 2023.",
             "url": "https://www.worldscientific.com/doi/10.1142/S0218213023600011",
-            "description": "(Invited Paper, Accepted, JCR Q4)",
-            "Cdescription": "(已录用, 约稿论文, SCI期刊)"
+            "description": "(Invited Paper, JCR Q4)",
+            "Cdescription": "(约稿论文, SCI期刊)"
         }, {
             "type": 2,
             "author": "<b>Xinyu Zhou</b>, Ying Liu, Yanlin Wu, Jinglei Guo",
@@ -209,6 +209,15 @@
         }
     ],
     "Conferencepapers": [{
+            "type": 1,
+            "author": "<b>Xinyu Zhou</b>, Guishen Tan, Yanlin Wu, Shuixiu Wu",
+            "title": "Neighborhood Learning for Artificial Bee Colony Algorithm: A Mini-survey",
+            "source": "The 30th International Conference on Neural Information Processing (ICONIP 2023). Guangzhou: Springer, 2023.",
+            "url": "http://iconip2023.org/",
+            "description": "",
+            "Cdescription": "(CCF推荐会议)"
+        },
+	    {
             "type": 1,
             "author": "<b>Xinyu Zhou</b>, Junyan Song, Shuixiu Wu, Wenlong Ni, Mingwen Wang",
             "title": "Fitness landscape analysis: from problem understanding to design of evolutionary algorithms",
