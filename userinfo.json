@@ -1,6 +1,17 @@
 {
     "Journalpapers": [{
             "type": 2,
+            "author": "<b>Xinyu Zhou</b>, Junhong Huang, Hu Peng, Hui Wang, Feng Wang",
+            "title": "Differential Evolution Algorithm Based on Adaptive Bi-coordinate Systems for Mixed-variable Optimization Problem",
+            "source": "Chinese Journal of Computers, 2024.",
+            "Cauthor": "<b>周新宇</b>, 黄君洪, 彭虎, 王晖, 王峰",
+            "Ctitle": "自适应双坐标系的差分进化算法求解混合变量优化问题",
+            "Csource": "计算机学报, 2024.",
+            "url": "https://link.cnki.net/urlid/11.1826.tp.20240520.1547.002",
+            "description": "(Accepted, in Chinese)",
+            "Cdescription": "(已录用, CCF推荐中文期刊)"
+        },{
+            "type": 2,
             "author": "<b>Xinyu Zhou</b>, Ziyue Yin, Weifeng Gao, Guisen Tan, Yugen Yi",
             "title": "Adaptive multi-neighborhood artificial bee colony algorithm based on reinforcement learning",
             "source": "Chinese Journal of Computers, 2024.",
