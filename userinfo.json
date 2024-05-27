@@ -1,5 +1,13 @@
 {
     "Journalpapers": [{
+            "type": 1,
+            "author": "<b>Xinyu Zhou</b>, Neng Mei, Maosheng Zhong, Mingwen Wang",
+            "title": "Evolutionary Multi-Task Optimization with Adaptive Intensity of Knowledge Transfer",
+            "source": "IEEE Transactions on Emerging Topics in Computational Intelligence.",
+            "url": "https://cis.ieee.org/publications/t-emerging-topics-in-ci",
+            "description": "(Accepted, JCR Q1)",
+            "Cdescription": "(已录用, 领域权威期刊)"
+        },{
             "type": 2,
             "author": "<b>Xinyu Zhou</b>, Junhong Huang, Hu Peng, Hui Wang, Feng Wang",
             "title": "Differential Evolution Algorithm Based on Adaptive Bi-coordinate Systems for Mixed-variable Optimization Problem",
