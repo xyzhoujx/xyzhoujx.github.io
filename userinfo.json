@@ -17,7 +17,7 @@
             "Csource": "计算机学报, 2024.",
             "url": "https://link.cnki.net/urlid/11.1826.tp.20240520.1547.002",
             "description": "(Accepted, in Chinese)",
-            "Cdescription": "(已录用, CCF推荐中文期刊)"
+            "Cdescription": "(已录用, CCF推荐T1类期刊)"
         },{
             "type": 2,
             "author": "<b>Xinyu Zhou</b>, Ziyue Yin, Weifeng Gao, Guisen Tan, Yugen Yi",
@@ -28,7 +28,18 @@
             "Csource": "计算机学报, 2024.",
             "url": "https://link.cnki.net/urlid/11.1826.TP.20240419.1123.002",
             "description": "(Accepted, in Chinese)",
-            "Cdescription": "(已录用, CCF推荐中文期刊)"
+            "Cdescription": "(已录用, CCF推荐T1类期刊)"
+        },{
+            "type": 2,
+            "author": "<b>Xinyu Zhou</b>, Ying Liu, Yanlin Wu, Jinglei Guo",
+            "title": "Artificial Bee Colony Algorithm based on Multiple Information Guidance",
+            "source": "Acta Electronica Sinica, 2022.",
+            "Cauthor": "<b>周新宇</b>, 刘颖, 吴艳林, 郭京蕾",
+            "Ctitle": "基于多元信息引导的人工蜂群算法",
+            "Csource": "电子学报, 52(4): 1349-1363, 2024.",
+            "url": "https://www.ejournal.org.cn/CN/10.12263/DZXB.20220146",
+            "description": "(Accepted, in Chinese)",
+            "Cdescription": "(CCF推荐T1类期刊)"
         },{
             "type": 1,
             "author": "<b>Xinyu Zhou</b>, Junyan Song, Shuixiu Wu, Mingwen Wang",
@@ -46,18 +57,6 @@
             "description": "(Invited Paper, JCR Q4)",
             "Cdescription": "(约稿论文, SCI期刊)"
         }, {
-            "type": 2,
-            "author": "<b>Xinyu Zhou</b>, Ying Liu, Yanlin Wu, Jinglei Guo",
-            "title": "Artificial Bee Colony Algorithm based on Multiple Information Guidance",
-            "source": "Acta Electronica Sinica, 2022.",
-            "Cauthor": "<b>周新宇</b>, 刘颖, 吴艳林, 郭京蕾",
-            "Ctitle": "基于多元信息引导的人工蜂群算法",
-            "Csource": "电子学报, 2022.",
-            "url": "https://www.ejournal.org.cn/CN/10.12263/DZXB.20220146",
-            "description": "(Accepted, in Chinese)",
-            "Cdescription": "(已录用, CCF推荐中文期刊)"
-        },
-	    {
             "type": 1,
             "author": "<b>Xinyu Zhou</b>, Yanlin Wu, Maosheng Zhong, Mingwen Wang",
             "title": "Artificial Bee Colony Algorithm based on Adaptive Neighborhood Topologies",
@@ -76,7 +75,7 @@
             "Csource": "模式识别与人工智能, 35(8): 688-700, 2022.",
             "url": "http://manu46.magtech.com.cn/Jweb_prai/CN/abstract/abstract12422.shtml",
             "description": "(in Chinese)",
-            "Cdescription": "(CCF推荐中文期刊)"
+            "Cdescription": "(CCF推荐T2类期刊)"
         },
 	    {
             "type": 1,
@@ -142,7 +141,7 @@
             "Csource": "系统仿真学报, 32(6): 1071-1084, 2020.",
             "url": "http://www.china-simulation.com/CN/10.16182/j.issn1004731x.joss.18-0787",
             "description": "(Corresponding author, in Chinese)",
-            "Cdescription": "(CCF推荐中文期刊，通讯作者)"
+            "Cdescription": "(CCF推荐T2类期刊，通讯作者)"
         },
         {
             "type": 1,
@@ -181,7 +180,7 @@
             "Csource": "软件学报, 26(9): 2167-2190, 2015.",
             "url": "http://www.jos.org.cn/jos/ch/reader/view_abstract.aspx?flag=1&file_no=4800&journal_id=jos",
             "description": "(In Chinese, Articles from Top Journals of China)",
-            "Cdescription": "(CCF推荐中文期刊, 国内权威期刊)"
+            "Cdescription": "(CCF推荐T1类期刊, 国内权威期刊)"
         },
         {
             "type": 1,
@@ -223,7 +222,7 @@
             "Csource": "电子学报, 41(08): 1647-1652, 2013.",
             "url": "http://www.ejournal.org.cn/CN/abstract/abstract7622.shtml",
             "description": "(In Chinese, Top Articles from Outstanding S&T Journal of China)",
-            "Cdescription": "(CCF推荐中文期刊, 领跑者5000——中国精品科技期刊顶尖学术论文)"
+            "Cdescription": "(CCF推荐T1类期刊, 领跑者5000——中国精品科技期刊顶尖学术论文)"
         },
         {
             "type": 2,
