@@ -42,6 +42,14 @@
             "Cdescription": "(CCF推荐T1类期刊)"
         },{
             "type": 1,
+            "author": "<b>Xinyu Zhou</b>, Hao Tang, Shuixiu Wu, Mingwen Wang",
+            "title": "Enhancing Artificial Bee Colony Algorithm with Depth-first Search and Direction Information",
+            "source": "International Journal of Wireless and Mobile Computing, 27(1): 1-12, 2024.",
+            "url": "https://www.inderscience.com/jhome.php?jcode=ijwmc",
+            "description": "",
+            "Cdescription": "(EI期刊)"
+        },{
+            "type": 1,
             "author": "<b>Xinyu Zhou</b>, Junyan Song, Shuixiu Wu, Mingwen Wang",
             "title": "Artificial Bee Colony Algorithm based on Online Fitness Landscape Analysis",
             "source": "Information Sciences, 619:603-629, 2023.",
@@ -94,15 +102,6 @@
             "url": "https://www.inderscience.com/info/inarticle.php?artid=128440",
             "description": "",
             "Cdescription": "(EI期刊)"
-        },
-	    {
-            "type": 1,
-            "author": "<b>Xinyu Zhou</b>, Hao Tang, Shuixiu Wu, Mingwen Wang",
-            "title": "Enhancing Artificial Bee Colony Algorithm with Depth-first Search and Direction Information",
-            "source": "International Journal of Wireless and Mobile Computing, 2021.",
-            "url": "https://www.inderscience.com/jhome.php?jcode=ijwmc",
-            "description": "(Accepted)",
-            "Cdescription": "(已录用, EI期刊)"
         },
         {
             "type": 1,
