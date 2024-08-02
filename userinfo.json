@@ -5,15 +5,15 @@
             "title": "Adaptive multi-population artificial bee colony algorithm based on fitness landscape analysis",
             "source": "Applied Soft Computing, 164: 111952, 2024.",
             "url": "https://www.sciencedirect.com/science/article/abs/pii/S1568494624007269",
-            "description": "(Accepted, JCR Q1)",
-            "Cdescription": "(已录用, SCI一区TOP期刊, 领域权威期刊)"
+            "description": "(JCR Q1)",
+            "Cdescription": "(SCI一区TOP期刊, 领域权威期刊)"
         },{
             "type": 1,
             "author": "<b>Xinyu Zhou</b>, Neng Mei, Maosheng Zhong, Mingwen Wang",
             "title": "Evolutionary Multi-Task Optimization with Adaptive Intensity of Knowledge Transfer",
             "source": "IEEE Transactions on Emerging Topics in Computational Intelligence, 2024.",
             "url": "https://ieeexplore.ieee.org/document/10606286",
-            "description": "(Accepted, JCR Q2)",
+            "description": "(JCR Q2)",
             "Cdescription": "(已录用, 领域权威期刊)"
         },{
             "type": 2,
@@ -33,10 +33,10 @@
             "source": "Chinese Journal of Computers, 2024.",
             "Cauthor": "<b>周新宇</b>, 尹子悦, 高卫峰, 谭贵森, 易玉根",
             "Ctitle": "一种基于强化学习的自适应多邻域人工蜂群算法",
-            "Csource": "计算机学报, 2024.",
+            "Csource": "计算机学报, 47(7): 203-228, 2024.",
             "url": "https://link.cnki.net/urlid/11.1826.TP.20240419.1123.002",
-            "description": "(Accepted, in Chinese)",
-            "Cdescription": "(已录用, CCF推荐T1类期刊)"
+            "description": "(in Chinese)",
+            "Cdescription": "(CCF推荐T1类期刊)"
         },{
             "type": 2,
             "author": "<b>Xinyu Zhou</b>, Ying Liu, Yanlin Wu, Jinglei Guo",
@@ -46,7 +46,7 @@
             "Ctitle": "基于多元信息引导的人工蜂群算法",
             "Csource": "电子学报, 52(4): 1349-1363, 2024.",
             "url": "https://www.ejournal.org.cn/CN/10.12263/DZXB.20220146",
-            "description": "(Accepted, in Chinese)",
+            "description": "(in Chinese)",
             "Cdescription": "(CCF推荐T1类期刊)"
         },{
             "type": 1,
