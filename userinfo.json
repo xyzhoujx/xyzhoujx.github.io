@@ -246,6 +246,14 @@
     ],
     "Conferencepapers": [{
             "type": 1,
+            "author": "<b>Xinyu Zhou</b>, Jingjin Yin, Hua Chen, Wenlong Ni, Mingwen Wang",
+            "title": "Hybrid Niching Differential Evolution with Restart Strategy for Multimodal Optimization",
+            "source": "The 31st International Conference on Neural Information Processing (ICONIP 2024). Auckland: Springer, 2024.",
+            "url": "https://iconip2024.org/",
+            "description": "",
+            "Cdescription": "(CCF推荐会议)"
+        },{
+            "type": 1,
             "author": "<b>Xinyu Zhou</b>, Guisen Tan, Yanlin Wu, Shuixiu Wu",
             "title": "Neighborhood Learning for Artificial Bee Colony Algorithm: A Mini-survey",
             "source": "The 30th International Conference on Neural Information Processing (ICONIP 2023). Changsha: Springer, 2023.",
