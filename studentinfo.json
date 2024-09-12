@@ -37,6 +37,18 @@
         {
             "name": "林伟峰(研究生)",
             "photo": "headImages/林伟峰.jpg"
+        },
+        {
+            "name": "张宗林(本科生)",
+            "photo": "headImages/张宗林.jpg"
+        },
+        {
+            "name": "秦林吉(本科生)",
+            "photo": "headImages/秦林吉.jpg"
+        },
+        {
+            "name": "张发俊(本科生)",
+            "photo": "headImages/张发俊.jpg"
         }
     ],
     "2022": [
@@ -55,6 +67,14 @@
         {
             "name": "蒋金峰(研究生)",
             "photo": "headImages/蒋金峰.jpg"
+        },
+        {
+            "name": "郭祚梁(本科生)",
+            "photo": "headImages/郭祚梁.png"
+        },
+        {
+            "name": "严嘉怡(本科生)",
+            "photo": "headImages/严嘉怡.png"
         }
     ],
     "2021": [
