@@ -1,0 +1,1 @@
+import{_ as e,c as o,o as t}from"./index-CY6eLz1l.js";const n={name:"NotFound",mounted(){this.$router.push("/")}};function r(s,c,a,_,p,u){return t(),o("div")}const f=e(n,[["render",r]]);export{f as default};
