@@ -92,6 +92,16 @@
             "name": "梅能(研究生)",
             "workplace": "南昌师范学院",
             "photo": "headImages/梅能.jpg"
+        },
+        {
+            "name": "张小翠(研究生)",
+            "workplace": "中国移动",
+            "photo": "headImages/张小翠.png"
+        },
+        {
+            "name": "易则超(研究生)",
+            "workplace": "美云智数科技有限公司",
+            "photo": "headImages/易则超.png"
         }
     ],
     "2020": [
@@ -169,7 +179,7 @@
         {
             "name": "卢嘉鑫(研究生)",
             "workplace": "江西省儿童医院",
-            "photo": "headImages/无照片.png"
+            "photo": "headImages/卢嘉鑫.png"
         }
     ]
 }
