@@ -2,6 +2,14 @@
     "Journalpapers": [
         {
             "type": 1,
+            "author": "<b>Xinyu Zhou</b>, Yanjun Zhu, Yizhi Wang, Ruiqing Sun, Juan Zou",
+            "title": "Constrained Multi-objective Optimization with Constraint Priority",
+            "source": "IEEE Transactions on Emerging Topics in Computational Intelligence, 2025.",
+            "url": "https://cis.ieee.org/publications/t-emerging-topics-in-ci",
+            "description": "(JCR Q2)",
+            "Cdescription": "(SCI期刊, 已录用, 领域权威期刊)"
+        },{{
+            "type": 1,
             "author": "<b>Xinyu Zhou</b>, Ningzhi Li, Long Fan, Hongwei Li, Bailiang Cheng, Mingwen Wang",
             "title": "Adaptive niching differential evolution algorithm with landscape analysis for multimodal optimization",
             "source": "Information Sciences, 700: 121842, 2025.",
@@ -33,7 +41,7 @@
             "source": "IEEE Transactions on Emerging Topics in Computational Intelligence, 2024.",
             "url": "https://ieeexplore.ieee.org/document/10606286",
             "description": "(JCR Q2)",
-            "Cdescription": "(已录用, 领域权威期刊)"
+            "Cdescription": "(SCI期刊, 已录用, 领域权威期刊)"
         },
         {
             "type": 2,
