@@ -2,6 +2,15 @@
     "Journalpapers": [
         {
             "type": 1,
+            "author": "<b>Xinyu Zhou</b>, Long Fan, Kunjie Yu, Kangjia Qiao",
+            "title": "A Constrained Multi-Objective Evolutionary Algorithm Based on Online Problem Identification and Separate Handling",
+            "source": "Swarm and Evolutionary Computation, 2025.",
+            "url": "https://www.sciencedirect.com/journal/swarm-and-evolutionary-computation",
+            "description": "(JCR Q1)",
+            "Cdescription": "(SCI二区期刊, 已录用, 领域权威期刊)"
+        },
+        {
+            "type": 1,
             "author": "<b>Xinyu Zhou</b>, Yanjun Zhu, Yizhi Wang, Ruiqing Sun, Juan Zou",
             "title": "Constrained Multi-objective Optimization with Constraint Priority",
             "source": "IEEE Transactions on Emerging Topics in Computational Intelligence, 2025.",
