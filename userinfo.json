@@ -1,6 +1,17 @@
 {
     "Journalpapers": [
         {
+            "type": 2,
+            "author": "<b>Xinyu Zhou</b>, Longhui Tian, Fei Ming, Wenyin Gong, Hui Wang",
+            "title": "A Multimodal Optimization Algorithm Based on Competitive Crowding Niching Technique",
+            "source": "Chinese Journal of Computers, 2025.",
+            "Cauthor": "<b>周新宇</b>, 田龙辉, 明飞, 龚文引, 王晖",
+            "Ctitle": "一种基于竞争性拥挤小生境技术的多峰优化算法",
+            "Csource": "计算机学报, 2025.",
+            "url": "http://cjc.ict.ac.cn/",
+            "description": "(Accepted, in Chinese)",
+            "Cdescription": "(已录用, CCF推荐T1类期刊)"
+        },{
             "type": 1,
             "author": "<b>Xinyu Zhou</b>, Long Fan, Kunjie Yu, Kangjia Qiao",
             "title": "A Constrained Multi-Objective Evolutionary Algorithm Based on Online Problem Identification and Separate Handling",
