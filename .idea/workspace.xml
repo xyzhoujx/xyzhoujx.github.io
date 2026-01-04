@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5fbe50e5-b5e5-4533-91cb-2f5f329993eb" name="更改" comment="update" />
+    <list default="true" id="5fbe50e5-b5e5-4533-91cb-2f5f329993eb" name="更改" comment="update">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -26,7 +28,7 @@
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "E:/BaiduSyncdisk/WEB/xyzhoujx.github.io",
+    "last_opened_file_path": "E:/BaiduSyncdisk/WEB/GroupWeb",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -68,7 +70,8 @@
       <workItem from="1756967940464" duration="653000" />
       <workItem from="1760923320960" duration="709000" />
       <workItem from="1762744188127" duration="390000" />
-      <workItem from="1765873863930" duration="631000" />
+      <workItem from="1765873863930" duration="1243000" />
+      <workItem from="1767500438291" duration="344000" />
     </task>
     <task id="LOCAL-00001" summary="update">
       <option name="closed" value="true" />
