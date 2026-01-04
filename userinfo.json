@@ -1,6 +1,14 @@
 {
     "Journalpapers": [
-        {
+        },{
+            "type": 1,
+            "author": "<b>Xinyu Zhou</b>, Weifeng Lin, Long Fan, Mingwen Wang",
+            "title": "Competitive multitasking with constraints relaxation for constrained multi-objective optimization",
+            "source": "Expert Systems with Applications, 2026.",
+            "url": "https://www.sciencedirect.com/science/article/abs/pii/S0957417425045695",
+            "description": "(JCR Q1)",
+            "Cdescription": "(SCI一区TOP期刊, 领域权威期刊)"
+        },{
             "type": 2,
             "author": "<b>Xinyu Zhou</b>, Longhui Tian, Fei Ming, Wenyin Gong, Hui Wang",
             "title": "A Multimodal Optimization Algorithm Based on Competitive Crowding Niching Technique",
