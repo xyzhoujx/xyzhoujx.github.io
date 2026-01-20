@@ -4,51 +4,67 @@
             "type": 1,
             "author": "<b>Xinyu Zhou</b>, Weifeng Lin, Long Fan, Mingwen Wang",
             "title": "Competitive multitasking with constraints relaxation for constrained multi-objective optimization",
-            "source": "Expert Systems with Applications, 2026.",
+            "source": "Expert Systems with Applications, 306, 130954, 2026.",
             "url": "https://www.sciencedirect.com/science/article/abs/pii/S0957417425045695",
             "description": "(JCR Q1)",
             "Cdescription": "(SCI一区TOP期刊, 领域权威期刊)"
-        },{
+        },
+        {
             "type": 2,
             "author": "<b>Xinyu Zhou</b>, Longhui Tian, Fei Ming, Wenyin Gong, Hui Wang",
             "title": "A Multimodal Optimization Algorithm Based on Competitive Crowding Niching Technique",
             "source": "Chinese Journal of Computers, 2025.",
             "Cauthor": "<b>周新宇</b>, 田龙辉, 明飞, 龚文引, 王晖",
             "Ctitle": "一种基于竞争性拥挤小生境技术的多峰优化算法",
-            "Csource": "计算机学报, 2025.",
-            "url": "http://cjc.ict.ac.cn/",
-            "description": "(Accepted, in Chinese)",
-            "Cdescription": "(已录用, CCF推荐T1类期刊)"
-        },{
+            "Csource": "计算机学报, 49(1), 62-83, 2026.",
+            "url": "https://kns.cnki.net/kcms2/article/abstract?v=CeTIW1Ci4b3n6BZhR_VYRQe6fBVfygcqgiClKFCVabnq-uqQH6ql8Dqxv8un_mb7nm26OUyW9gJsLK8jy0tSL8Lr3JA0Yc5DoHuZTcnhKAW6STEBqdtJGHSizhFn0dNjCCTTHxmC-U8T6rW6KakJ1XpZaqMH4HmOuuZO8Dw5Np_7fd36FCdImg==&uniplatform=NZKPT&language=CHS",
+            "description": "(in Chinese)",
+            "Cdescription": "(CCF推荐T1类期刊)"
+       },
+       {
+            "type": 2,
+            "author": "<b>Xinyu Zhou</b>, Jinfeng Jiang, Weifeng Gao, Hui Wang, Hu Peng",
+            "title": "Constrained Differential Evolution Algorithm with Dynamic Elite Learning",
+            "source": "Pattern Recognition and Artificial Intelligence, 38(09), 820-836, 2025.",
+            "Cauthor": "<b>周新宇</b>, 蒋金峰, 高卫峰, 王晖, 彭虎",
+            "Ctitle": "动态精英学习的约束差分进化算法",
+            "Csource": "模式识别与人工智能, 38(09), 820-836, 2025.",
+            "url": "https://kns.cnki.net/kcms2/article/abstract?v=CeTIW1Ci4b0M0QaSb-hRwFBeEdtJrbYdYoTrVwE1FUlKpgp6VMRWF6Fra9HFCjecfEVtyqUTVudJPftm2v4RxeMBlrKgSbULN3RxEs-AGvPvMTHVIa6tsObUQxoH-VghGD4KIoFkA2YHrlPbs2aa5IE05-ae5rmMgtTDST7zfqGcHa8lVQhuKg==&uniplatform=NZKPT&language=CHS",
+            "description": "(in Chinese)",
+            "Cdescription": "(CCF推荐T2类期刊)"
+        },
+        {
             "type": 1,
             "author": "<b>Xinyu Zhou</b>, Long Fan, Kunjie Yu, Kangjia Qiao",
             "title": "A Constrained Multi-Objective Evolutionary Algorithm Based on Online Problem Identification and Separate Handling",
-            "source": "Swarm and Evolutionary Computation, 2025.",
+            "source": "Swarm and Evolutionary Computation, 97, 102017, 2025.",
             "url": "https://www.sciencedirect.com/science/article/abs/pii/S2210650225001750",
             "description": "(JCR Q1)",
-            "Cdescription": "(SCI二区期刊, 已录用, 领域权威期刊)"
+            "Cdescription": "(SCI二区期刊, 领域权威期刊)"
         },
         {
             "type": 1,
             "author": "<b>Xinyu Zhou</b>, Yanjun Zhu, Yizhi Wang, Ruiqing Sun, Juan Zou",
             "title": "Constrained Multi-objective Optimization with Constraint Priority",
-            "source": "IEEE Transactions on Emerging Topics in Computational Intelligence, 2025.",
+            "source": "IEEE Transactions on Emerging Topics in Computational Intelligence, 9(6), 4037-4050, 2025.",
             "url": "https://ieeexplore.ieee.org/document/10955192",
             "description": "(JCR Q2)",
-            "Cdescription": "(SCI期刊, 已录用, 领域权威期刊)"
-        },{
+            "Cdescription": "(SCI二区期刊, 领域权威期刊)"
+        },
+        {
             "type": 1,
             "author": "<b>Xinyu Zhou</b>, Ningzhi Li, Long Fan, Hongwei Li, Bailiang Cheng, Mingwen Wang",
             "title": "Adaptive niching differential evolution algorithm with landscape analysis for multimodal optimization",
             "source": "Information Sciences, 700: 121842, 2025.",
             "url": "https://www.sciencedirect.com/science/article/abs/pii/S0020025524017560",
             "description": "(JCR Q1)",
-            "Cdescription": "(SCI一区TOP期刊, CCF推荐期刊, 领域权威期刊)"
-        },{
+            "Cdescription": "(SCI二区期刊, CCF推荐期刊, 领域权威期刊)"
+        },
+        {
             "type": 1,
             "author": "<b>Xinyu Zhou</b>, Guisen Tan, Hui Wang, Yong Ma, Shuixiu Wu",
             "title": "Artificial Bee Colony Algorithm Based on Multi-neighbor Guidance",
-            "source": "Expert Systems With Applications, 2024.",
+            "source": "Expert Systems With Applications, 259, 125283, 2025.",
             "url": "https://linkinghub.elsevier.com/retrieve/pii/S095741742402150X",
             "description": "(JCR Q1)",
             "Cdescription": "(SCI一区TOP期刊, 领域权威期刊)"
@@ -69,7 +85,7 @@
             "source": "IEEE Transactions on Emerging Topics in Computational Intelligence, 2024.",
             "url": "https://ieeexplore.ieee.org/document/10606286",
             "description": "(JCR Q2)",
-            "Cdescription": "(SCI期刊, 已录用, 领域权威期刊)"
+            "Cdescription": "(SCI二区期刊, 已录用, 领域权威期刊)"
         },
         {
             "type": 2,
@@ -80,7 +96,7 @@
             "Ctitle": "自适应双坐标系的差分进化算法求解混合变量优化问题",
             "Csource": "计算机学报, 47(9): 2116-2140, 2024.",
             "url": "https://link.cnki.net/urlid/11.1826.tp.20240520.1547.002",
-            "description": "(Accepted, in Chinese)",
+            "description": "(in Chinese)",
             "Cdescription": "(CCF推荐T1类期刊)"
         },
         {
