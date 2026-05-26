@@ -1,6 +1,14 @@
 {
     "Journalpapers": [
-        {
+         {
+            "type": 1,
+            "author": "<b>Xinyu Zhou*</b>, Weifeng Lin, Kunjie Yu, Kangjia Qiao",
+            "title": "Dynamic Escaping Population Driven Evolutionary Algorithm for Multi-objective Optimization Problems with Deceptive Constraints",
+            "source": "IEEE Transactions on Evolutionary Computation, 2026.",
+            "url": "https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4235",
+            "description": "(JCR Q1)",
+            "Cdescription": "(已录用, SCI一区TOP期刊, 领域顶级期刊)"
+        },{
             "type": 1,
             "author": "Zonglin Zhang, <b>Xinyu Zhou*</b>, Junyan Song, Feiqiang Liu, Yong Ma",
             "title": "Adaptive exploration-exploitation switching artificial bee colony algorithm based on problem features",
