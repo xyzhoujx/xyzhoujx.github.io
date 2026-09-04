@@ -1,6 +1,17 @@
 {
     "Journalpapers": [
-         {
+        {
+            "type": 2,
+            "author": "<b>Xinyu Zhou</b>, Zuoliang Guo, Zechao Yi, Yanlin Wu",
+            "title": "Artificial Bee Colony Algorithm with Adaptive Neighborhood Size for Simulation-Based Optimization of Mecharical Structures",
+            "source": "Journal of System Simulation.",
+            "Cauthor": "<b>周新宇</b>, 郭祚梁, 易则超, 吴艳林",
+            "Ctitle": "自适应邻域规模人工蜂群算法及机械结构仿真优化",
+            "Csource": "系统仿真学报, 2026.",
+            "url": "https://kns.cnki.net/kcms2/article/abstract?v=9i0lrMsVy7k0jwMB3NPFb-B78HdTLCutO_C1avs5GlnlZ0QsDfpu_KBHIrhhMjZLnz4xgxgT7Zud9-sZz62N7s0IhUJ2inNFM75toF2a9pd7H2HgsN9NCnsIqYD12xehCVG2ZCn2wmNSb9Gu9F7_ujEV2nLLDoldGrMr3CWj250NwfcJLS39kg==&uniplatform=NZKPT&language=CHS",
+            "description": "(in Chinese)",
+            "Cdescription": "(CCF推荐T2类期刊)"
+       },{
             "type": 1,
             "author": "<b>Xinyu Zhou</b>, Weifeng Lin, Kunjie Yu, Kangjia Qiao*",
             "title": "Dynamic Escaping Population Driven Evolutionary Algorithm for Multi-objective Optimization Problems with Deceptive Constraints",
