@@ -1,6 +1,14 @@
 {
     "Journalpapers": [
         {
+            "type": 1,
+            "author": "<b>Xinyu Zhou</b>, Chao Gao, Yanjun Zhu, Fei Ming, Yaochu Jin",
+            "title": "Task Similarity-based Evolutionary Multitasking with Niche-based Knowledge Transfer Mechanism for Constrained Multi-objective Optimization",
+            "source": "IEEE Transactions on Emerging Topics in Computational Intelligence, 2026.",
+            "url": "https://cis.ieee.org/publications/t-emerging-topics-in-ci",
+            "description": "(JCR Q2)",
+            "Cdescription": "(已录用，SCI二区期刊，领域权威期刊)"
+       },{
             "type": 2,
             "author": "<b>Xinyu Zhou</b>, Zuoliang Guo, Zechao Yi, Yanlin Wu",
             "title": "Artificial Bee Colony Algorithm with Adaptive Neighborhood Size for Simulation-Based Optimization of Mecharical Structures",
