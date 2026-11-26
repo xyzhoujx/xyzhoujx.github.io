@@ -2,6 +2,14 @@
     "Journalpapers": [
         {
             "type": 1,
+            "author": "<b>Xinyu Zhou</b>, Yiqi Li, Fei Ming, Hui Wang, Hu Peng",
+            "title": "A multi-armed bandit based multi-task evolutionary algorithm for constrained multi-objective optimization",
+            "source": "Expert Systems with Applications, 2027.",
+            "url": "https://www.sciencedirect.com/science/article/pii/S0957417426040996",
+            "description": "(JCR Q1)",
+            "Cdescription": "(SCI一区OP期刊，领域权威期刊)"
+       },{
+            "type": 1,
             "author": "<b>Xinyu Zhou</b>, Chao Gao, Yanjun Zhu, Fei Ming, Yaochu Jin*",
             "title": "Task Similarity-based Evolutionary Multitasking with Niche-based Knowledge Transfer Mechanism for Constrained Multi-objective Optimization",
             "source": "IEEE Transactions on Emerging Topics in Computational Intelligence, 2026.",
